@@ -1,0 +1,10 @@
+# Archived primary sources: large (25 MB+ of publisher PDFs), re-derivable, and
+# not ours to redistribute. Regenerate with the download commands in README.md.
+sources/
+
+# Run logs
+data/*.log
+
+__pycache__/
+*.pyc
+.venv/

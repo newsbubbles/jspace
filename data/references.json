@@ -1,0 +1,1541 @@
+[
+  {
+    "n": 1,
+    "raw": "Guillaume Alain and Yoshua Bengio. Understanding intermediate layers using linear classifier probes. arXiv preprint arXiv:1610.01644, 2016. URL https://arxiv.org/pdf/ 1610.01644.",
+    "arxiv": "1610.01644",
+    "url": "https://arxiv.org/pdf/",
+    "year": 2016,
+    "authors": "Guillaume Alain and Yoshua Bengio",
+    "title": "Understanding intermediate layers using linear classifier probes",
+    "venue": "arXiv preprint arXiv:1610.01644, 2016."
+  },
+  {
+    "n": 2,
+    "raw": "Larissa Albantakis, Leonardo Barbosa, Graham Findlay, Matteo Grasso, Andrew M Haun, William Marshall, William GP Mayner, Alireza Zaeemzadeh, Melanie Boly, Bjørn E Juel, et al. Integrated information theory (iit) 4.0: Formulating the properties of phenomenal existence in physical terms. PLoS computational biology, 19(10):e1011465, 2023.",
+    "year": 2023,
+    "authors": "Larissa Albantakis, Leonardo Barbosa, Graham Findlay, Matteo Grasso, Andrew M Haun, William Marshall, William GP Mayner, Alireza Zaeemzadeh, Melanie Boly, Bjørn E Juel, et al",
+    "title": "Integrated information theory (iit) 4.0: Formulating the properties of phenomenal existence in physical terms",
+    "venue": "PLoS computational biology, 19(10):e1011465, 2023."
+  },
+  {
+    "n": 3,
+    "raw": "Emmanuel Ameisen, Jack Lindsey, Adam Pearce, Wes Gurnee, Nicholas L. Turner, Brian Chen, Craig Citro, David Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton, Trenton Bricken, Callum McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson, Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, and Joshua Batson. Circuit tracing: Revealing computational graphs in language models. Transformer Circuits, 2025. URL https://transformer-circuits.pub/2025/attribution-graphs/methods.html.",
+    "url": "https://transformer-circuits.pub/2025/attribution-graphs/methods.html",
+    "year": 2025,
+    "authors": "Emmanuel Ameisen, Jack Lindsey, Adam Pearce, Wes Gurnee, Nicholas L. Turner, Brian Chen, Craig Citro, David Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton, Trenton Bricken, Callum McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson, Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, and Joshua Batson",
+    "title": "Circuit tracing: Revealing computational graphs in language models",
+    "venue": "Transformer Circuits, 2025."
+  },
+  {
+    "n": 4,
+    "raw": "Anthropic. Claude opus 4.5 system card. Technical report, Anthropic, November 2025. URL https://www.anthropic.com/claude-opus-4-5-system-card.",
+    "url": "https://www.anthropic.com/claude-opus-4-5-system-card",
+    "year": 2025,
+    "authors": "Anthropic",
+    "title": "Claude opus 4.5 system card",
+    "venue": "Technical report, Anthropic, November 2025."
+  },
+  {
+    "n": 5,
+    "raw": "Anthropic. Claude sonnet 4.5 system card. Technical report, Anthropic, 2025. URL https: //www.anthropic.com/claude-sonnet-4-5-system-card.",
+    "year": 2025,
+    "authors": "Anthropic",
+    "title": "Claude sonnet 4.5 system card",
+    "venue": "Technical report, Anthropic, 2025."
+  },
+  {
+    "n": 6,
+    "raw": "Andy Arditi, Oscar Obeso, Aaquib Syed, Daniel Paleka, Nina Panickssery, Wes Gurnee, and Neel Nanda. Refusal in language models is mediated by a single direction. Advances in Neural Information Processing Systems, 37:136037–136083, 2025. URL https://proceedings.neurips.cc/paper_files/paper/2024/file/ f545448535dfde4f9786555403ab7c49-Paper-Conference.pdf.",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/",
+    "year": 2024,
+    "authors": "Andy Arditi, Oscar Obeso, Aaquib Syed, Daniel Paleka, Nina Panickssery, Wes Gurnee, and Neel Nanda",
+    "title": "Refusal in language models is mediated by a single direction",
+    "venue": "Advances in Neural Information Processing Systems, 37:136037–136083, 2025."
+  },
+  {
+    "n": 7,
+    "raw": "Aryaman Arora, Zhengxuan Wu, Jacob Steinhardt, and Sarah Schwettmann. Language model circuits are sparse in the neuron basis. arXiv preprint arXiv:2601.22594, 2026.",
+    "arxiv": "2601.22594",
+    "year": 2026,
+    "authors": "Aryaman Arora, Zhengxuan Wu, Jacob Steinhardt, and Sarah Schwettmann",
+    "title": "Language model circuits are sparse in the neuron basis",
+    "venue": "arXiv preprint arXiv:2601.22594, 2026."
+  },
+  {
+    "n": 8,
+    "raw": "Ido Andrew Atad, Itamar Zimerman, Shahar Katz, and Lior Wolf. Tensorlens: End-to-end transformer analysis via high-order attention tensors. arXiv preprint arXiv:2601.17958, 2026. URL https://arxiv.org/abs/2601.17958.",
+    "arxiv": "2601.17958",
+    "url": "https://arxiv.org/abs/2601.17958",
+    "year": 2026,
+    "authors": "Ido Andrew Atad, Itamar Zimerman, Shahar Katz, and Lior Wolf",
+    "title": "Tensorlens: End-to-end transformer analysis via high-order attention tensors",
+    "venue": "arXiv preprint arXiv:2601.17958, 2026."
+  },
+  {
+    "n": 9,
+    "raw": "Jimmy Ba, Geoffrey Hinton, Volodymyr Mnih, Joel Z Leibo, and Catalin Ionescu. Using fast weights to attend to the recent past. In Advances in Neural Information Processing Systems, volume 29, 2016. URL https://arxiv.org/abs/1610.06258.",
+    "url": "https://arxiv.org/abs/1610.06258",
+    "year": 2016,
+    "authors": "Jimmy Ba, Geoffrey Hinton, Volodymyr Mnih, Joel Z Leibo, and Catalin Ionescu",
+    "title": "Using fast weights to attend to the recent past",
+    "venue": "In Advances in Neural Information Processing Systems, volume 29, 2016."
+  },
+  {
+    "n": 10,
+    "raw": "Bernard J Baars. A Cognitive Theory of Consciousness. Cambridge University Press, Cambridge, 1988.",
+    "year": 1988,
+    "authors": "Bernard J Baars",
+    "title": "A Cognitive Theory of Consciousness",
+    "venue": "Cambridge University Press, Cambridge, 1988."
+  },
+  {
+    "n": 11,
+    "raw": "Alan Baddeley. Working memory: looking back and looking forward. Nature Reviews Neuroscience, 4(10):829–839, 2003. doi: 10.1038/nrn1201.",
+    "doi": "10.1038/nrn1201",
+    "year": 2003,
+    "authors": "Alan Baddeley",
+    "title": "Working memory: looking back and looking forward",
+    "venue": "Nature Reviews Neuroscience, 4(10):829–839, 2003"
+  },
+  {
+    "n": 12,
+    "raw": "Nora Belrose, Zach Furman, Logan Smith, Danny Halawi, Igor Ostrovsky, Lev McKinney, Stella Biderman, and Jacob Steinhardt. Eliciting latent predictions from transformers with the tuned lens. arXiv preprint arXiv:2303.08112, 2023. URL https://arxiv.org/abs/ 2303.08112.",
+    "arxiv": "2303.08112",
+    "url": "https://arxiv.org/abs/",
+    "year": 2023,
+    "authors": "Nora Belrose, Zach Furman, Logan Smith, Danny Halawi, Igor Ostrovsky, Lev McKinney, Stella Biderman, and Jacob Steinhardt",
+    "title": "Eliciting latent predictions from transformers with the tuned lens",
+    "venue": "arXiv preprint arXiv:2303.08112, 2023."
+  },
+  {
+    "n": 13,
+    "raw": "Yoshua Bengio. The consciousness prior. arXiv preprint arXiv:1709.08568, 2017. URL https://arxiv.org/abs/1709.08568.",
+    "arxiv": "1709.08568",
+    "url": "https://arxiv.org/abs/1709.08568",
+    "year": 2017,
+    "authors": "Yoshua Bengio",
+    "title": "The consciousness prior",
+    "venue": "arXiv preprint arXiv:1709.08568, 2017."
+  },
+  {
+    "n": 14,
+    "raw": "Lukas Berglund, Asa Cooper Stickland, Mikita Balesni, Max Kaufmann, Meg Tong, Tomasz Korbak, Daniel Kokotajlo, and Owain Evans. Taken out of context: On measuring situational awareness in llms. arXiv preprint arXiv:2309.00667, 2023. URL https://arxiv.org/ abs/2309.00667.",
+    "arxiv": "2309.00667",
+    "url": "https://arxiv.org/",
+    "year": 2023,
+    "authors": "Lukas Berglund, Asa Cooper Stickland, Mikita Balesni, Max Kaufmann, Meg Tong, Tomasz Korbak, Daniel Kokotajlo, and Owain Evans",
+    "title": "Taken out of context: On measuring situational awareness in llms",
+    "venue": "arXiv preprint arXiv:2309.00667, 2023."
+  },
+  {
+    "n": 15,
+    "raw": "Jan Betley, Xuchan Bao, Martín Soto, Anna Sztyber-Betley, James Chua, and Owain Evans. Tell me about yourself: Llms are aware of their learned behaviors. arXiv preprint arXiv:2501.11120, 2025. URL https://arxiv.org/pdf/2501.11120.",
+    "arxiv": "2501.11120",
+    "url": "https://arxiv.org/pdf/2501.11120",
+    "year": 2025,
+    "authors": "Jan Betley, Xuchan Bao, Martín Soto, Anna Sztyber-Betley, James Chua, and Owain Evans",
+    "title": "Tell me about yourself: Llms are aware of their learned behaviors",
+    "venue": "arXiv preprint arXiv:2501.11120, 2025."
+  },
+  {
+    "n": 16,
+    "raw": "Steven Bills, Nick Cammarata, Dan Mossing, Henk Tillman, Leo Gao, Gabriel Goh, Ilya Sutskever, Jan Leike, Jeff Wu, and William Saunders. Language models can explain neurons in language models, 2023. URL https://openaipublic.blob.core.windows. net/neuron-explainer/paper/index.html.",
+    "url": "https://openaipublic.blob.core.windows",
+    "year": 2023,
+    "authors": "Steven Bills, Nick Cammarata, Dan Mossing, Henk Tillman, Leo Gao, Gabriel Goh, Ilya Sutskever, Jan Leike, Jeff Wu, and William Saunders",
+    "title": "Language models can explain neurons in language models, 2023."
+  },
+  {
+    "n": 17,
+    "raw": "Felix J Binder, James Chua, Tomek Korbak, Henry Sleight, John Hughes, Robert Long, Ethan Perez, Miles Turpin, and Owain Evans. Looking inward: Language models can learn about themselves by introspection. arXiv preprint arXiv:2410.13787, 2024.",
+    "arxiv": "2410.13787",
+    "year": 2024,
+    "authors": "Felix J Binder, James Chua, Tomek Korbak, Henry Sleight, John Hughes, Robert Long, Ethan Perez, Miles Turpin, and Owain Evans",
+    "title": "Looking inward: Language models can learn about themselves by introspection",
+    "venue": "arXiv preprint arXiv:2410.13787, 2024."
+  },
+  {
+    "n": 18,
+    "raw": "Ned Block. On a confusion about a function of consciousness. Behavioral and Brain Sciences, 18(2):227–247, 1995. doi: 10.1017/S0140525X00038188.",
+    "doi": "10.1017/S0140525X00038188",
+    "year": 1995,
+    "authors": "Ned Block",
+    "title": "On a confusion about a function of consciousness",
+    "venue": "Behavioral and Brain Sciences, 18(2):227–247, 1995"
+  },
+  {
+    "n": 19,
+    "raw": "Thomas Blumensath and Mike E Davies. Gradient pursuits. IEEE Transactions on Signal Processing, 56(6):2370–2382, 2008. doi: 10.1109/TSP.2007.916124.",
+    "doi": "10.1109/TSP.2007.916124",
+    "year": 2007,
+    "authors": "Thomas Blumensath and Mike E Davies",
+    "title": "Gradient pursuits",
+    "venue": "IEEE Transactions on Signal Processing, 56(6):2370–2382, 2008"
+  },
+  {
+    "n": 20,
+    "raw": "Paul C Bogdan and Jack Lindsey. Slot machines: How llms keep track of multiple entities. arXiv preprint arXiv:2604.21139, 2026.",
+    "arxiv": "2604.21139",
+    "year": 2026,
+    "authors": "Paul C Bogdan and Jack Lindsey",
+    "title": "Slot machines: How llms keep track of multiple entities",
+    "venue": "arXiv preprint arXiv:2604.21139, 2026."
+  },
+  {
+    "n": 21,
+    "raw": "Trenton Bricken, Adly Templeton, Joshua Batson, Brian Chen, Adam Jermyn, Tom Conerly, Nick Turner, Cem Anil, Carson Denison, Amanda Askell, Robert Lasenby, Yifan Wu, Shauna Kravec, Nicholas Schiefer, Tim Maxwell, Nicholas Joseph, Zac HatfieldDodds, Alex Tamkin, Karina Nguyen, Brayden McLean, Josiah E Burke, Tristan Hume, Shan Carter, Tom Henighan, and Christopher Olah. Towards monosemanticity: Decomposing language models with dictionary learning. Transformer Circuits Thread, 2023. URL https://transformer-circuits.pub/2023/monosemantic-features/index. html. https://transformer-circuits.pub/2023/monosemantic-features/index.html.",
+    "url": "https://transformer-circuits.pub/2023/monosemantic-features/index",
+    "year": 2023,
+    "authors": "Trenton Bricken, Adly Templeton, Joshua Batson, Brian Chen, Adam Jermyn, Tom Conerly, Nick Turner, Cem Anil, Carson Denison, Amanda Askell, Robert Lasenby, Yifan Wu, Shauna Kravec, Nicholas Schiefer, Tim Maxwell, Nicholas Joseph, Zac HatfieldDodds, Alex Tamkin, Karina Nguyen, Brayden McLean, Josiah E Burke, Tristan Hume, Shan Carter, Tom Henighan, and Christopher Olah",
+    "title": "Towards monosemanticity: Decomposing language models with dictionary learning",
+    "venue": "Transformer Circuits Thread, 2023."
+  },
+  {
+    "n": 22,
+    "raw": "Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, and Rufin VanRullen. Consciousness in artificial intelligence: Insights from the science of consciousness. arXiv preprint arXiv:2308.08708, 2023. URL https: //arxiv.org/abs/2308.08708.",
+    "arxiv": "2308.08708",
+    "year": 2023,
+    "authors": "Patrick Butlin, Robert Long, Eric Elmoznino, Yoshua Bengio, Jonathan Birch, Axel Constant, George Deane, Stephen M. Fleming, Chris Frith, Xu Ji, Ryota Kanai, Colin Klein, Grace Lindsay, Matthias Michel, Liad Mudrik, Megan A. K. Peters, Eric Schwitzgebel, Jonathan Simon, and Rufin VanRullen",
+    "title": "Consciousness in artificial intelligence: Insights from the science of consciousness",
+    "venue": "arXiv preprint arXiv:2308.08708, 2023."
+  },
+  {
+    "n": 23,
+    "raw": "David J Chalmers. Could a large language model be conscious? arXiv preprint arXiv:2303.07103, 2023.",
+    "arxiv": "2303.07103",
+    "year": 2023,
+    "authors": "David J Chalmers",
+    "title": "Could a large language model be conscious? arXiv preprint arXiv:2303.07103, 2023."
+  },
+  {
+    "n": 24,
+    "raw": "David John Chalmers. The Conscious Mind: In Search of a Theory of Conscious Experience. Oxford University Press New York, 1996.",
+    "year": 1996,
+    "authors": "David John Chalmers",
+    "title": "The Conscious Mind: In Search of a Theory of Conscious Experience",
+    "venue": "Oxford University Press New York, 1996."
+  },
+  {
+    "n": 25,
+    "raw": "David Chanin, James Wilken-Smith, Tomáš Dulka, Hardik Bhatnagar, and Joseph Bloom. A is for absorption: Studying feature splitting and absorption in sparse autoencoders. arXiv preprint arXiv:2409.14507, 2024. URL https://arxiv.org/pdf/2409.14507.",
+    "arxiv": "2409.14507",
+    "url": "https://arxiv.org/pdf/2409.14507",
+    "year": 2024,
+    "authors": "David Chanin, James Wilken-Smith, Tomáš Dulka, Hardik Bhatnagar, and Joseph Bloom",
+    "title": "A is for absorption: Studying feature splitting and absorption in sparse autoencoders",
+    "venue": "arXiv preprint arXiv:2409.14507, 2024."
+  },
+  {
+    "n": 26,
+    "raw": "Haozhe Chen, Carl Vondrick, and Chengzhi Mao. Selfie: Self-interpretation of large language model embeddings. arXiv preprint arXiv:2403.10949, 2024.",
+    "arxiv": "2403.10949",
+    "year": 2024,
+    "authors": "Haozhe Chen, Carl Vondrick, and Chengzhi Mao",
+    "title": "Selfie: Self-interpretation of large language model embeddings",
+    "venue": "arXiv preprint arXiv:2403.10949, 2024."
+  },
+  {
+    "n": 27,
+    "raw": "Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, and Pengcheng He. Dola: Decoding by contrasting layers improves factuality in large language models. In International Conference on Learning Representations, 2024. URL https://arxiv.org/abs/ 2309.03883.",
+    "url": "https://arxiv.org/abs/",
+    "year": 2024,
+    "authors": "Yung-Sung Chuang, Yujia Xie, Hongyin Luo, Yoon Kim, James Glass, and Pengcheng He",
+    "title": "Dola: Decoding by contrasting layers improves factuality in large language models",
+    "venue": "In International Conference on Learning Representations, 2024."
+  },
+  {
+    "n": 28,
+    "raw": "Bilal Chughtai, Alan Cooney, and Neel Nanda. Summing up the facts: Additive mechanisms behind factual recall in llms. arXiv preprint arXiv:2402.07321, 2024. URL https://arxiv. org/abs/2402.07321.",
+    "arxiv": "2402.07321",
+    "url": "https://arxiv",
+    "year": 2024,
+    "authors": "Bilal Chughtai, Alan Cooney, and Neel Nanda",
+    "title": "Summing up the facts: Additive mechanisms behind factual recall in llms",
+    "venue": "arXiv preprint arXiv:2402.07321, 2024."
+  },
+  {
+    "n": 29,
+    "raw": "Marvin M Chun, Julie D Golomb, and Nicholas B Turk-Browne. A taxonomy of external and internal attention. Annual Review of Psychology, 62:73–101, 2011. doi: 10.1146/annurev. psych.093008.100427.",
+    "doi": "10.1146/annurev",
+    "year": 2011,
+    "authors": "Marvin M Chun, Julie D Golomb, and Nicholas B Turk-Browne",
+    "title": "A taxonomy of external and internal attention",
+    "venue": "Annual Review of Psychology, 62:73–101, 2011"
+  },
+  {
+    "n": 30,
+    "raw": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, and John Schulman. Training verifiers to solve math word problems. arXiv preprint arXiv:2110.14168, 2021. URL https://arxiv.org/abs/2110.14168.",
+    "arxiv": "2110.14168",
+    "url": "https://arxiv.org/abs/2110.14168",
+    "year": 2021,
+    "authors": "Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, and John Schulman",
+    "title": "Training verifiers to solve math word problems",
+    "venue": "arXiv preprint arXiv:2110.14168, 2021."
+  },
+  {
+    "n": 31,
+    "raw": "Iulia M Comsa and Murray Shanahan. Does it make sense to speak of introspection in large language models? arXiv preprint arXiv:2506.05068, 2025.",
+    "arxiv": "2506.05068",
+    "year": 2025,
+    "authors": "Iulia M Comsa and Murray Shanahan",
+    "title": "Does it make sense to speak of introspection in large language models? arXiv preprint arXiv:2506.05068, 2025."
+  },
+  {
+    "n": 32,
+    "raw": "Nelson Cowan. The magical number 4 in short-term memory: A reconsideration of mental storage capacity. Behavioral and Brain Sciences, 24(1):87–114, 2001. doi: 10.1017/ S0140525X01003922.",
+    "doi": "10.1017/",
+    "year": 2001,
+    "authors": "Nelson Cowan",
+    "title": "The magical number 4 in short-term memory: A reconsideration of mental storage capacity",
+    "venue": "Behavioral and Brain Sciences, 24(1):87–114, 2001"
+  },
+  {
+    "n": 33,
+    "raw": "Hoagy Cunningham, Aidan Ewart, Logan Smith, Robert Huben, and Lee Sharkey. Sparse autoencoders find highly interpretable model directions. arXiv preprint arXiv:2309.08600, 2023. URL https://arxiv.org/pdf/2309.08600.",
+    "arxiv": "2309.08600",
+    "url": "https://arxiv.org/pdf/2309.08600",
+    "year": 2023,
+    "authors": "Hoagy Cunningham, Aidan Ewart, Logan Smith, Robert Huben, and Lee Sharkey",
+    "title": "Sparse autoencoders find highly interpretable model directions",
+    "venue": "arXiv preprint arXiv:2309.08600, 2023."
+  },
+  {
+    "n": 34,
+    "raw": "Guy Dar, Mor Geva, Ankit Gupta, and Jonathan Berant. Analyzing transformers in embedding space. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 16124–16170, Toronto, Canada, 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.acl-long.893. URL https://aclanthology.org/2023.acl-long.893.",
+    "doi": "10.18653/v1/2023.acl-long.893",
+    "url": "https://aclanthology.org/2023.acl-long.893",
+    "year": 2023,
+    "authors": "Guy Dar, Mor Geva, Ankit Gupta, and Jonathan Berant",
+    "title": "Analyzing transformers in embedding space",
+    "venue": "In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 16124–16170, Toronto, Canada, 2023"
+  },
+  {
+    "n": 35,
+    "raw": "Stanislas Dehaene and Jean-Pierre Changeux. Experimental and theoretical approaches to conscious processing. Neuron, 70(2):200–227, 2011.",
+    "year": 2011,
+    "authors": "Stanislas Dehaene and Jean-Pierre Changeux",
+    "title": "Experimental and theoretical approaches to conscious processing",
+    "venue": "Neuron, 70(2):200–227, 2011."
+  },
+  {
+    "n": 36,
+    "raw": "Stanislas Dehaene and Lionel Naccache. Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. Cognition, 79(1–2):1–37, 2001.",
+    "year": 2001,
+    "authors": "Stanislas Dehaene and Lionel Naccache",
+    "title": "Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework",
+    "venue": "Cognition, 79(1–2):1–37, 2001."
+  },
+  {
+    "n": 37,
+    "raw": "Stanislas Dehaene, Michel Kerszberg, and Jean-Pierre Changeux. A neuronal model of a global workspace in effortful cognitive tasks. Proceedings of the National Academy of Sciences, 95(24):14529–14534, 1998.",
+    "year": 1998,
+    "authors": "Stanislas Dehaene, Michel Kerszberg, and Jean-Pierre Changeux",
+    "title": "A neuronal model of a global workspace in effortful cognitive tasks",
+    "venue": "Proceedings of the National Academy of Sciences, 95(24):14529–14534, 1998."
+  },
+  {
+    "n": 38,
+    "raw": "Stanislas Dehaene, Hakwan Lau, and Sid Kouider. What is consciousness, and could machines have it? Science, 358(6362):486–492, 2017. doi: 10.1126/science.aan8871.",
+    "doi": "10.1126/science.aan8871",
+    "year": 2017,
+    "authors": "Stanislas Dehaene, Hakwan Lau, and Sid Kouider",
+    "title": "What is consciousness, and could machines have it? Science, 358(6362):486–492, 2017",
+    "venue": "doi: 10.1126/science.aan8871."
+  },
+  {
+    "n": 39,
+    "raw": "Yuntian Deng, Yejin Choi, and Stuart Shieber. From explicit cot to implicit cot: Learning to internalize cot step by step. arXiv preprint arXiv:2405.14838, 2024. URL https://arxiv. org/abs/2405.14838.",
+    "arxiv": "2405.14838",
+    "url": "https://arxiv",
+    "year": 2024,
+    "authors": "Yuntian Deng, Yejin Choi, and Stuart Shieber",
+    "title": "From explicit cot to implicit cot: Learning to internalize cot step by step",
+    "venue": "arXiv preprint arXiv:2405.14838, 2024."
+  },
+  {
+    "n": 40,
+    "raw": "Jacob Dunefsky, Philippe Chlenski, and Neel Nanda. Transcoders find interpretable llm feature circuits. Advances in Neural Information Processing Systems, 37:24375–24410, 2025. URL https://arxiv.org/abs/2406.11944.",
+    "url": "https://arxiv.org/abs/2406.11944",
+    "year": 2025,
+    "authors": "Jacob Dunefsky, Philippe Chlenski, and Neel Nanda",
+    "title": "Transcoders find interpretable llm feature circuits",
+    "venue": "Advances in Neural Information Processing Systems, 37:24375–24410, 2025."
+  },
+  {
+    "n": 41,
+    "raw": "Yanai Elazar, Shauli Ravfogel, Alon Jacovi, and Yoav Goldberg. Amnesic probing: Behavioral explanation with amnesic counterfactuals. Transactions of the Association for Computational Linguistics, 9:160–175, 2021. URL https://arxiv.org/abs/2006.00995.",
+    "url": "https://arxiv.org/abs/2006.00995",
+    "year": 2006,
+    "authors": "Yanai Elazar, Shauli Ravfogel, Alon Jacovi, and Yoav Goldberg",
+    "title": "Amnesic probing: Behavioral explanation with amnesic counterfactuals",
+    "venue": "Transactions of the Association for Computational Linguistics, 9:160–175, 2021."
+  },
+  {
+    "n": 42,
+    "raw": "Nelson Elhage, Neel Nanda, Catherine Olsson, Tom Henighan, Nicholas Joseph, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Nova DasSarma, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Chris Olah. A mathematical framework for transformer circuits. Transformer Circuits Thread, 2021. URL https://transformer-circuits.pub/2021/framework/index. html.",
+    "url": "https://transformer-circuits.pub/2021/framework/index",
+    "year": 2021,
+    "authors": "Nelson Elhage, Neel Nanda, Catherine Olsson, Tom Henighan, Nicholas Joseph, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Nova DasSarma, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Chris Olah",
+    "title": "A mathematical framework for transformer circuits",
+    "venue": "Transformer Circuits Thread, 2021."
+  },
+  {
+    "n": 43,
+    "raw": "Nelson Elhage, Tristan Hume, Catherine Olsson, Nicholas Schiefer, Tom Henighan, Shauna Kravec, Zac Hatfield-Dodds, Robert Lasenby, Dawn Drain, Carol Chen, Roger Grosse, Sam McCandlish, Jared Kaplan, Dario Amodei, Martin Wattenberg, and Christopher Olah. Toy models of superposition. Transformer Circuits Thread, 2022. URL https:// transformer-circuits.pub/2022/toy_model/index.html.",
+    "year": 2022,
+    "authors": "Nelson Elhage, Tristan Hume, Catherine Olsson, Nicholas Schiefer, Tom Henighan, Shauna Kravec, Zac Hatfield-Dodds, Robert Lasenby, Dawn Drain, Carol Chen, Roger Grosse, Sam McCandlish, Jared Kaplan, Dario Amodei, Martin Wattenberg, and Christopher Olah",
+    "title": "Toy models of superposition",
+    "venue": "Transformer Circuits Thread, 2022."
+  },
+  {
+    "n": 44,
+    "raw": "Ching Fang et al. Unsupervised decoding of encoded reasoning using language model interpretability. arXiv preprint arXiv:2512.01222, 2025. URL https://arxiv.org/abs/2512. 01222.",
+    "arxiv": "2512.01222",
+    "url": "https://arxiv.org/abs/2512",
+    "year": 2025,
+    "authors": "Ching Fang et al",
+    "title": "Unsupervised decoding of encoded reasoning using language model interpretability",
+    "venue": "arXiv preprint arXiv:2512.01222, 2025."
+  },
+  {
+    "n": 45,
+    "raw": "Stephen M Fleming, Richard Brown, and Axel Cleeremans. Computational higher-order theories of consciousness. 2025. URL https://philarchive.org/archive/FLECHT.",
+    "url": "https://philarchive.org/archive/FLECHT",
+    "year": 2025,
+    "authors": "Stephen M Fleming, Richard Brown, and Axel Cleeremans",
+    "title": "Computational higher-order theories of consciousness",
+    "venue": "2025."
+  },
+  {
+    "n": 46,
+    "raw": "Kit Fraser-Taliente, Subhash Kantamneni, Euan Ong, Dan Mossing, Christina Lu, Paul C Bogdan, Emmanuel Ameisen, James Chen, Dzmitry Kishylau, Adam Pearce, Julius Tarng, Alex Wu, Jeff Wu, Yang Zhang, Daniel M Ziegler, Evan Hubinger, Joshua Batson, Jack Lindsey, Samuel Zimmerman, and Samuel Marks. Natural language autoencoders produce unsupervised explanations of llm activations. Transformer Circuits Thread, 2026. URL https://transformer-circuits.pub/2026/nla/index.html.",
+    "url": "https://transformer-circuits.pub/2026/nla/index.html",
+    "year": 2026,
+    "authors": "Kit Fraser-Taliente, Subhash Kantamneni, Euan Ong, Dan Mossing, Christina Lu, Paul C Bogdan, Emmanuel Ameisen, James Chen, Dzmitry Kishylau, Adam Pearce, Julius Tarng, Alex Wu, Jeff Wu, Yang Zhang, Daniel M Ziegler, Evan Hubinger, Joshua Batson, Jack Lindsey, Samuel Zimmerman, and Samuel Marks",
+    "title": "Natural language autoencoders produce unsupervised explanations of llm activations",
+    "venue": "Transformer Circuits Thread, 2026."
+  },
+  {
+    "n": 47,
+    "raw": "Asvin G and Jack Lindsey. From simulation to enaction: Post-trained language models recognize and react to their own generations. arXiv preprint arXiv:2605.25459, 2026.",
+    "arxiv": "2605.25459",
+    "year": 2026,
+    "authors": "Asvin G and Jack Lindsey",
+    "title": "From simulation to enaction: Post-trained language models recognize and react to their own generations",
+    "venue": "arXiv preprint arXiv:2605.25459, 2026."
+  },
+  {
+    "n": 48,
+    "raw": "Rohit Gandikota and David Bau. Gaze heads: How VLMs look at what they describe. 2026. URL https://arxiv.org/abs/2606.14703.",
+    "url": "https://arxiv.org/abs/2606.14703",
+    "year": 2026,
+    "authors": "Rohit Gandikota and David Bau",
+    "title": "Gaze heads: How VLMs look at what they describe",
+    "venue": "2026."
+  },
+  {
+    "n": 49,
+    "raw": "Xuyang Ge, Fukang Zhu, Wentao Shu, Junxuan Wang, Zhengfu He, and Xipeng Qiu. Automatically identifying local and global circuits with linear computation graphs. arXiv preprint arXiv:2405.13868, 2024. URL https://arxiv.org/pdf/2405.13868.",
+    "arxiv": "2405.13868",
+    "url": "https://arxiv.org/pdf/2405.13868",
+    "year": 2024,
+    "authors": "Xuyang Ge, Fukang Zhu, Wentao Shu, Junxuan Wang, Zhengfu He, and Xipeng Qiu",
+    "title": "Automatically identifying local and global circuits with linear computation graphs",
+    "venue": "arXiv preprint arXiv:2405.13868, 2024."
+  },
+  {
+    "n": 50,
+    "raw": "Ariel Gera, Roni Friedman, Ofir Arviv, Chulaka Gunasekara, Benjamin Sznajder, Noam Slonim, and Eyal Shnarch. The benefits of bad advice: Autocontrastive decoding across model layers. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2023. URL https://arxiv.org/abs/2305. 01628.",
+    "url": "https://arxiv.org/abs/2305",
+    "year": 2023,
+    "authors": "Ariel Gera, Roni Friedman, Ofir Arviv, Chulaka Gunasekara, Benjamin Sznajder, Noam Slonim, and Eyal Shnarch",
+    "title": "The benefits of bad advice: Autocontrastive decoding across model layers",
+    "venue": "In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2023."
+  },
+  {
+    "n": 51,
+    "raw": "Mor Geva, Avi Caciularu, Kevin Ro Wang, and Yoav Goldberg. Transformer feed-forward layers build predictions by promoting concepts in the vocabulary space. arXiv preprint arXiv:2203.14680, 2022. URL https://arxiv.org/pdf/2203.14680.",
+    "arxiv": "2203.14680",
+    "url": "https://arxiv.org/pdf/2203.14680",
+    "year": 2022,
+    "authors": "Mor Geva, Avi Caciularu, Kevin Ro Wang, and Yoav Goldberg",
+    "title": "Transformer feed-forward layers build predictions by promoting concepts in the vocabulary space",
+    "venue": "arXiv preprint arXiv:2203.14680, 2022."
+  },
+  {
+    "n": 52,
+    "raw": "Mor Geva, Jasmijn Bastings, Katja Filippova, and Amir Globerson. Dissecting recall of factual associations in auto-regressive language models. arXiv preprint arXiv:2304.14767, 2023. URL https://arxiv.org/pdf/2304.14767.",
+    "arxiv": "2304.14767",
+    "url": "https://arxiv.org/pdf/2304.14767",
+    "year": 2023,
+    "authors": "Mor Geva, Jasmijn Bastings, Katja Filippova, and Amir Globerson",
+    "title": "Dissecting recall of factual associations in auto-regressive language models",
+    "venue": "arXiv preprint arXiv:2304.14767, 2023."
+  },
+  {
+    "n": 53,
+    "raw": "Asma Ghandeharioun, Avi Caciularu, Adam Pearce, Lucas Dixon, and Mor Geva. Patchscopes: A unifying framework for inspecting hidden representations of language models. arXiv preprint arXiv:2401.06102, 2024.",
+    "arxiv": "2401.06102",
+    "year": 2024,
+    "authors": "Asma Ghandeharioun, Avi Caciularu, Adam Pearce, Lucas Dixon, and Mor Geva",
+    "title": "Patchscopes: A unifying framework for inspecting hidden representations of language models",
+    "venue": "arXiv preprint arXiv:2401.06102, 2024."
+  },
+  {
+    "n": 54,
+    "raw": "James R Golden. Equivalent linear mappings of large language models. arXiv preprint arXiv:2505.24293, 2025. URL https://arxiv.org/abs/2505.24293.",
+    "arxiv": "2505.24293",
+    "url": "https://arxiv.org/abs/2505.24293",
+    "year": 2025,
+    "authors": "James R Golden",
+    "title": "Equivalent linear mappings of large language models",
+    "venue": "arXiv preprint arXiv:2505.24293, 2025."
+  },
+  {
+    "n": 55,
+    "raw": "Anirudh Goyal, Aniket Didolkar, Alex Lamb, Kartikeya Badola, Nan Rosemary Ke, Nasim Rahaman, Jonathan Binas, Charles Blundell, Michael Mozer, and Yoshua Bengio. Coordination among neural modules through a shared global workspace. In International Conference on Learning Representations, 2022. URL https://arxiv.org/abs/2103.01197.",
+    "url": "https://arxiv.org/abs/2103.01197",
+    "year": 2022,
+    "authors": "Anirudh Goyal, Aniket Didolkar, Alex Lamb, Kartikeya Badola, Nan Rosemary Ke, Nasim Rahaman, Jonathan Binas, Charles Blundell, Michael Mozer, and Yoshua Bengio",
+    "title": "Coordination among neural modules through a shared global workspace",
+    "venue": "In International Conference on Learning Representations, 2022."
+  },
+  {
+    "n": 56,
+    "raw": "Michael S. A. Graziano and Sabine Kastner. Human consciousness and its relationship to social neuroscience: A novel hypothesis. Cognitive Neuroscience, 2(2):98–113, 2011. doi: 10.1080/17588928.2011.565121.",
+    "doi": "10.1080/17588928.2011.565121",
+    "year": 2011,
+    "authors": "Michael S. A. Graziano and Sabine Kastner",
+    "title": "Human consciousness and its relationship to social neuroscience: A novel hypothesis",
+    "venue": "Cognitive Neuroscience, 2(2):98–113, 2011"
+  },
+  {
+    "n": 57,
+    "raw": "Michael S. A. Graziano and Taylor W. Webb. The attention schema theory: a mechanistic account of subjective awareness. Frontiers in Psychology, 6:500, 2015. doi: 10.3389/fpsyg. 2015.00500.",
+    "doi": "10.3389/fpsyg",
+    "year": 2015,
+    "authors": "Michael S. A. Graziano and Taylor W. Webb",
+    "title": "The attention schema theory: a mechanistic account of subjective awareness",
+    "venue": "Frontiers in Psychology, 6:500, 2015"
+  },
+  {
+    "n": 58,
+    "raw": "Melody Y. Guan, Manas Joglekar, Eric Wallace, Saachi Jain, Boaz Barak, Alec Helyar, Rachel Dias, Andrea Vallone, Hongyu Ren, Jason Wei, et al. Deliberative alignment: Reasoning enables safer language models. arXiv preprint arXiv:2412.16339, 2024. URL https://arxiv.org/abs/2412.16339.",
+    "arxiv": "2412.16339",
+    "url": "https://arxiv.org/abs/2412.16339",
+    "year": 2024,
+    "authors": "Melody Y. Guan, Manas Joglekar, Eric Wallace, Saachi Jain, Boaz Barak, Alec Helyar, Rachel Dias, Andrea Vallone, Hongyu Ren, Jason Wei, et al",
+    "title": "Deliberative alignment: Reasoning enables safer language models",
+    "venue": "arXiv preprint arXiv:2412.16339, 2024."
+  },
+  {
+    "n": 59,
+    "raw": "Wes Gurnee, Theo Horsley, Zifan Carl Guo, Tara Rezaei Kheirkhah, Qinyi Sun, Will Hathaway, Neel Nanda, and Dimitris Bertsimas. Universal neurons in gpt2 language models. arXiv preprint arXiv:2401.12181, 2024. URL https://arxiv.org/pdf/2401.12181.",
+    "arxiv": "2401.12181",
+    "url": "https://arxiv.org/pdf/2401.12181",
+    "year": 2024,
+    "authors": "Wes Gurnee, Theo Horsley, Zifan Carl Guo, Tara Rezaei Kheirkhah, Qinyi Sun, Will Hathaway, Neel Nanda, and Dimitris Bertsimas",
+    "title": "Universal neurons in gpt2 language models",
+    "venue": "arXiv preprint arXiv:2401.12181, 2024."
+  },
+  {
+    "n": 60,
+    "raw": "Wes Gurnee, Emmanuel Ameisen, Isaac Kauvar, Julius Tarng, Adam Pearce, Chris Olah, and Joshua Batson. When models manipulate manifolds: The geometry of a counting task. Transformer Circuits Thread, 2025. URL https://transformer-circuits.pub/2025/ linebreaks/index.html.",
+    "url": "https://transformer-circuits.pub/2025/",
+    "year": 2025,
+    "authors": "Wes Gurnee, Emmanuel Ameisen, Isaac Kauvar, Julius Tarng, Adam Pearce, Chris Olah, and Joshua Batson",
+    "title": "When models manipulate manifolds: The geometry of a counting task",
+    "venue": "Transformer Circuits Thread, 2025."
+  },
+  {
+    "n": 61,
+    "raw": "Danny Halawi, Jean-Stanislas Denain, and Jacob Steinhardt. Overthinking the truth: Understanding how language models process false demonstrations. In International Conference on Learning Representations, 2024. URL https://arxiv.org/abs/2307.09476.",
+    "url": "https://arxiv.org/abs/2307.09476",
+    "year": 2024,
+    "authors": "Danny Halawi, Jean-Stanislas Denain, and Jacob Steinhardt",
+    "title": "Overthinking the truth: Understanding how language models process false demonstrations",
+    "venue": "In International Conference on Learning Representations, 2024."
+  },
+  {
+    "n": 62,
+    "raw": "Michael Hanna, Ollie Liu, and Alexandre Variengien. How does gpt-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model. Advances in Neural Information Processing Systems, 36:76033–76060, 2023. URL https://proceedings.neurips.cc/paper_files/paper/2023/file/ efbba7719cc5172d175240f24be11280-Paper-Conference.pdf.",
+    "url": "https://proceedings.neurips.cc/paper_files/paper/2023/file/",
+    "year": 2023,
+    "authors": "Michael Hanna, Ollie Liu, and Alexandre Variengien",
+    "title": "How does gpt-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model",
+    "venue": "Advances in Neural Information Processing Systems, 36:76033–76060, 2023."
+  },
+  {
+    "n": 63,
+    "raw": "Roee Hendel, Mor Geva, and Amir Globerson. In-context learning creates task vectors. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 9318–9333, 2023.",
+    "year": 2023,
+    "authors": "Roee Hendel, Mor Geva, and Amir Globerson",
+    "title": "In-context learning creates task vectors",
+    "venue": "In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 9318–9333, 2023."
+  },
+  {
+    "n": 64,
+    "raw": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt. Measuring massive multitask language understanding. International Conference on Learning Representations (ICLR), 2021. URL https://arxiv.org/abs/2009. 03300.",
+    "url": "https://arxiv.org/abs/2009",
+    "year": 2009,
+    "authors": "Dan Hendrycks, Collin Burns, Steven Basart, Andy Zou, Mantas Mazeika, Dawn Song, and Jacob Steinhardt",
+    "title": "Measuring massive multitask language understanding",
+    "venue": "International Conference on Learning Representations (ICLR), 2021."
+  },
+  {
+    "n": 65,
+    "raw": "Evan Hernandez, Arnab Sen Sharma, Tal Haklay, Kevin Meng, Martin Wattenberg, Jacob Andreas, Yonatan Belinkov, and David Bau. Linearity of relation decoding in transformer language models. In International Conference on Learning Representations, 2024. URL https://arxiv.org/abs/2308.09124.",
+    "url": "https://arxiv.org/abs/2308.09124",
+    "year": 2024,
+    "authors": "Evan Hernandez, Arnab Sen Sharma, Tal Haklay, Kevin Meng, Martin Wattenberg, Jacob Andreas, Yonatan Belinkov, and David Bau",
+    "title": "Linearity of relation decoding in transformer language models",
+    "venue": "In International Conference on Learning Representations, 2024."
+  },
+  {
+    "n": 66,
+    "raw": "John Hewitt and Percy Liang. Designing and interpreting probes with control tasks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 2733–2743, 2019. URL https://arxiv.org/abs/1909.03368.",
+    "url": "https://arxiv.org/abs/1909.03368",
+    "year": 2019,
+    "authors": "John Hewitt and Percy Liang",
+    "title": "Designing and interpreting probes with control tasks",
+    "venue": "In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 2733–2743, 2019."
+  },
+  {
+    "n": 67,
+    "raw": "John Hewitt and Christopher D Manning. A structural probe for finding syntax in word representations. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 4129–4138, Minneapolis, Minnesota, 2019. Association for Computational Linguistics. URL https://aclanthology.org/N19-1419.",
+    "url": "https://aclanthology.org/N19-1419",
+    "year": 2019,
+    "authors": "John Hewitt and Christopher D Manning",
+    "title": "A structural probe for finding syntax in word representations",
+    "venue": "In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 4129–4138, Minneapolis, Minnesota, 2019"
+  },
+  {
+    "n": 68,
+    "raw": "Kazuki Irie and Samuel J Gershman. Fast weight programming and linear transformers: from machine learning to neurobiology. arXiv preprint arXiv:2508.08435, 2025. URL https: //arxiv.org/abs/2508.08435.",
+    "arxiv": "2508.08435",
+    "year": 2025,
+    "authors": "Kazuki Irie and Samuel J Gershman",
+    "title": "Fast weight programming and linear transformers: from machine learning to neurobiology",
+    "venue": "arXiv preprint arXiv:2508.08435, 2025."
+  },
+  {
+    "n": 69,
+    "raw": "Mozes Jacobs, Thomas Fel, Richard Hakim, Alessandra Brondetta, Demba Ba, and T Andy Keller. Block-recurrent dynamics in vision transformers. arXiv preprint arXiv:2512.19941, 2025. URL https://arxiv.org/abs/2512.19941.",
+    "arxiv": "2512.19941",
+    "url": "https://arxiv.org/abs/2512.19941",
+    "year": 2025,
+    "authors": "Mozes Jacobs, Thomas Fel, Richard Hakim, Alessandra Brondetta, Demba Ba, and T Andy Keller",
+    "title": "Block-recurrent dynamics in vision transformers",
+    "venue": "arXiv preprint arXiv:2512.19941, 2025."
+  },
+  {
+    "n": 70,
+    "raw": "Larry L Jacoby. A process dissociation framework: Separating automatic from intentional uses of memory. Journal of memory and language, 30(5):513–541, 1991.",
+    "year": 1991,
+    "authors": "Larry L Jacoby",
+    "title": "A process dissociation framework: Separating automatic from intentional uses of memory",
+    "venue": "Journal of memory and language, 30(5):513–541, 1991."
+  },
+  {
+    "n": 71,
+    "raw": "Jett Janiak, Jacek Karwowski, Chatrik Singh Mangat, Giorgi Giglemiani, Nora Petrova, and Stefan Heimersheim. Characterizing stable regions in the residual stream of LLMs. 2024. URL https://arxiv.org/abs/2409.17113. NeurIPS 2024 SciForDL Workshop.",
+    "url": "https://arxiv.org/abs/2409.17113",
+    "year": 2024,
+    "authors": "Jett Janiak, Jacek Karwowski, Chatrik Singh Mangat, Giorgi Giglemiani, Nora Petrova, and Stefan Heimersheim",
+    "title": "Characterizing stable regions in the residual stream of LLMs",
+    "venue": "2024."
+  },
+  {
+    "n": 72,
+    "raw": "Li Ji-An, Hua-Dong Xiong, Robert C Wilson, Marcelo G Mattar, and Marcus K Benna. Language models are capable of metacognitive monitoring and control of their internal activations. arXiv preprint arXiv:2505.13763, 2025.",
+    "arxiv": "2505.13763",
+    "year": 2025,
+    "authors": "Li Ji-An, Hua-Dong Xiong, Robert C Wilson, Marcelo G Mattar, and Marcus K Benna",
+    "title": "Language models are capable of metacognitive monitoring and control of their internal activations",
+    "venue": "arXiv preprint arXiv:2505.13763, 2025."
+  },
+  {
+    "n": 73,
+    "raw": "Nick Jiang, Anish Kachinthaya, Suzie Petryk, and Yossi Gandelsman. Interpreting and editing vision-language representations to mitigate hallucinations. arXiv preprint arXiv:2410.02762, 2024. URL https://arxiv.org/abs/2410.02762.",
+    "arxiv": "2410.02762",
+    "url": "https://arxiv.org/abs/2410.02762",
+    "year": 2024,
+    "authors": "Nick Jiang, Anish Kachinthaya, Suzie Petryk, and Yossi Gandelsman",
+    "title": "Interpreting and editing vision-language representations to mitigate hallucinations",
+    "venue": "arXiv preprint arXiv:2410.02762, 2024."
+  },
+  {
+    "n": 74,
+    "raw": "Zhangqi Jiang, Junkai Chen, Beier Zhu, Tingjin Luo, Yankun Shen, and Xu Yang. Devils in middle layers of large vision-language models: Interpreting, detecting and mitigating object hallucinations via attention lens. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025. URL https://arxiv.org/abs/2411.16724.",
+    "url": "https://arxiv.org/abs/2411.16724",
+    "year": 2025,
+    "authors": "Zhangqi Jiang, Junkai Chen, Beier Zhu, Tingjin Luo, Yankun Shen, and Xu Yang",
+    "title": "Devils in middle layers of large vision-language models: Interpreting, detecting and mitigating object hallucinations via attention lens",
+    "venue": "In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2025."
+  },
+  {
+    "n": 75,
+    "raw": "Mandar Joshi, Eunsol Choi, Daniel S Weld, and Luke Zettlemoyer. Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension. arXiv preprint arXiv:1705.03551, 2017. URL https://arxiv.org/pdf/1705.03551.",
+    "arxiv": "1705.03551",
+    "url": "https://arxiv.org/pdf/1705.03551",
+    "year": 2017,
+    "authors": "Mandar Joshi, Eunsol Choi, Daniel S Weld, and Luke Zettlemoyer",
+    "title": "Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension",
+    "venue": "arXiv preprint arXiv:1705.03551, 2017."
+  },
+  {
+    "n": 76,
+    "raw": "Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli Tran-Johnson, et al. Language models (mostly) know what they know. arXiv preprint arXiv:2207.05221, 2022. URL https://arxiv.org/pdf/2207.05221.",
+    "arxiv": "2207.05221",
+    "url": "https://arxiv.org/pdf/2207.05221",
+    "year": 2022,
+    "authors": "Saurav Kadavath, Tom Conerly, Amanda Askell, Tom Henighan, Dawn Drain, Ethan Perez, Nicholas Schiefer, Zac Hatfield-Dodds, Nova DasSarma, Eli Tran-Johnson, et al",
+    "title": "Language models (mostly) know what they know",
+    "venue": "arXiv preprint arXiv:2207.05221, 2022."
+  },
+  {
+    "n": 77,
+    "raw": "Daniel Kahneman. Thinking, Fast and Slow. macmillan, 2011.",
+    "year": 2011,
+    "authors": "Daniel Kahneman",
+    "title": "Thinking, Fast and Slow",
+    "venue": "macmillan, 2011."
+  },
+  {
+    "n": 78,
+    "raw": "Harish Kamath, Emmanuel Ameisen, Isaac Kauvar, Rodrigo Luger, Wes Gurnee, Adam Pearce, Sam Zimmerman, Joshua Batson, Thomas Conerly, Chris Olah, and Jack Lindsey. Tracing attention computation through feature interactions. Transformer Circuits Thread, 2025. URL https://transformer-circuits.pub/2025/attention-qk/index.html.",
+    "url": "https://transformer-circuits.pub/2025/attention-qk/index.html",
+    "year": 2025,
+    "authors": "Harish Kamath, Emmanuel Ameisen, Isaac Kauvar, Rodrigo Luger, Wes Gurnee, Adam Pearce, Sam Zimmerman, Joshua Batson, Thomas Conerly, Chris Olah, and Jack Lindsey",
+    "title": "Tracing attention computation through feature interactions",
+    "venue": "Transformer Circuits Thread, 2025."
+  },
+  {
+    "n": 79,
+    "raw": "Adam Karvonen, James Chua, Clément Dumas, Kit Fraser-Taliente, Subhash Kantamneni, Julian Minder, Euan Ong, Arnab Sen Sharma, Daniel Wen, Owain Evans, and Samuel Marks. Activation oracles: Training and evaluating llms as general-purpose activation explainers. arXiv preprint arXiv:2512.15674, 2025. URL https://arxiv.org/abs/2512.15674.",
+    "arxiv": "2512.15674",
+    "url": "https://arxiv.org/abs/2512.15674",
+    "year": 2025,
+    "authors": "Adam Karvonen, James Chua, Clément Dumas, Kit Fraser-Taliente, Subhash Kantamneni, Julian Minder, Euan Ong, Arnab Sen Sharma, Daniel Wen, Owain Evans, and Samuel Marks",
+    "title": "Activation oracles: Training and evaluating llms as general-purpose activation explainers",
+    "venue": "arXiv preprint arXiv:2512.15674, 2025."
+  },
+  {
+    "n": 80,
+    "raw": "Shahar Katz, Yonatan Belinkov, Mor Geva, and Lior Wolf. Backward lens: Projecting language model gradients into the vocabulary space. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, 2024. URL https://arxiv.org/ abs/2402.12865.",
+    "url": "https://arxiv.org/",
+    "year": 2024,
+    "authors": "Shahar Katz, Yonatan Belinkov, Mor Geva, and Lior Wolf",
+    "title": "Backward lens: Projecting language model gradients into the vocabulary space",
+    "venue": "In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, 2024."
+  },
+  {
+    "n": 81,
+    "raw": "John F Kihlstrom. The cognitive unconscious. Science, 237(4821):1445–1452, 1987.",
+    "year": 1987,
+    "authors": "John F Kihlstrom",
+    "title": "The cognitive unconscious",
+    "venue": "Science, 237(4821):1445–1452, 1987."
+  },
+  {
+    "n": 82,
+    "raw": "Simon Kornblith, Mohammad Norouzi, Honglak Lee, and Geoffrey Hinton. Similarity of neural network representations revisited. In International conference on machine learning, pages 3519–3529. PMlR, 2019.",
+    "year": 2019,
+    "authors": "Simon Kornblith, Mohammad Norouzi, Honglak Lee, and Geoffrey Hinton",
+    "title": "Similarity of neural network representations revisited",
+    "venue": "In International conference on machine learning, pages 3519–3529"
+  },
+  {
+    "n": 83,
+    "raw": "Leo Kozachkov, Ksenia V Kastanenka, and Dmitry Krotov. Building transformers from neurons and astrocytes. Proceedings of the National Academy of Sciences, 120(34):e2219150120, 2023. doi: 10.1073/pnas.2219150120.",
+    "doi": "10.1073/pnas.2219150120",
+    "year": 2023,
+    "authors": "Leo Kozachkov, Ksenia V Kastanenka, and Dmitry Krotov",
+    "title": "Building transformers from neurons and astrocytes",
+    "venue": "Proceedings of the National Academy of Sciences, 120(34):e2219150120, 2023"
+  },
+  {
+    "n": 84,
+    "raw": "János Kramár, Tom Lieberum, Rohin Shah, and Neel Nanda. Atp*: An efficient and scalable method for localizing llm behaviour to components. arXiv preprint arXiv:2403.00745, 2024. URL https://arxiv.org/pdf/2403.00745.",
+    "arxiv": "2403.00745",
+    "url": "https://arxiv.org/pdf/2403.00745",
+    "year": 2024,
+    "authors": "János Kramár, Tom Lieberum, Rohin Shah, and Neel Nanda",
+    "title": "Atp*: An efficient and scalable method for localizing llm behaviour to components",
+    "venue": "arXiv preprint arXiv:2403.00745, 2024."
+  },
+  {
+    "n": 85,
+    "raw": "Benno Krojer, Shravan Nayak, Oscar Mañas, Vaibhav Adlakha, Desmond Elliott, Siva Reddy, and Marius Mosbach. LatentLens: Revealing highly interpretable visual tokens in LLMs. arXiv preprint arXiv:2602.00462, 2026. URL https://arxiv.org/abs/2602.00462.",
+    "arxiv": "2602.00462",
+    "url": "https://arxiv.org/abs/2602.00462",
+    "year": 2026,
+    "authors": "Benno Krojer, Shravan Nayak, Oscar Mañas, Vaibhav Adlakha, Desmond Elliott, Siva Reddy, and Marius Mosbach",
+    "title": "LatentLens: Revealing highly interpretable visual tokens in LLMs",
+    "venue": "arXiv preprint arXiv:2602.00462, 2026."
+  },
+  {
+    "n": 86,
+    "raw": "Dmitry Krotov and John J Hopfield. Large associative memory problem in neurobiology and machine learning. In International Conference on Learning Representations, 2021. URL https://arxiv.org/abs/2008.06996.",
+    "url": "https://arxiv.org/abs/2008.06996",
+    "year": 2008,
+    "authors": "Dmitry Krotov and John J Hopfield",
+    "title": "Large associative memory problem in neurobiology and machine learning",
+    "venue": "In International Conference on Learning Representations, 2021."
+  },
+  {
+    "n": 87,
+    "raw": "Vedang Lad, Jin Hwa Lee, Wes Gurnee, and Max Tegmark. The remarkable robustness of llms: Stages of inference? arXiv preprint arXiv:2406.19384, 2024.",
+    "arxiv": "2406.19384",
+    "year": 2024,
+    "authors": "Vedang Lad, Jin Hwa Lee, Wes Gurnee, and Max Tegmark",
+    "title": "The remarkable robustness of llms: Stages of inference? arXiv preprint arXiv:2406.19384, 2024."
+  },
+  {
+    "n": 88,
+    "raw": "Rudolf Laine, Bilal Chughtai, Jan Betley, Kaivalya Hariharan, Mikita Balesni, Jérémy Scheurer, Marius Hobbhahn, Alexander Meinke, and Owain Evans. Me, myself, and ai: The situational awareness dataset (sad) for llms. Advances in Neural Information Processing Systems, 37:64010–64118, 2024.",
+    "year": 2024,
+    "authors": "Rudolf Laine, Bilal Chughtai, Jan Betley, Kaivalya Hariharan, Mikita Balesni, Jérémy Scheurer, Marius Hobbhahn, Alexander Meinke, and Owain Evans",
+    "title": "Me, myself, and ai: The situational awareness dataset (sad) for llms",
+    "venue": "Advances in Neural Information Processing Systems, 37:64010–64118, 2024."
+  },
+  {
+    "n": 89,
+    "raw": "Victor A. F. Lamme. Towards a true neural stance on consciousness. Trends in Cognitive Sciences, 10(11):494–501, 2006. doi: 10.1016/j.tics.2006.09.001.",
+    "doi": "10.1016/j.tics.2006.09.001",
+    "year": 2006,
+    "authors": "Victor A. F. Lamme",
+    "title": "Towards a true neural stance on consciousness",
+    "venue": "Trends in Cognitive Sciences, 10(11):494–501, 2006"
+  },
+  {
+    "n": 90,
+    "raw": "Victor A. F. Lamme and Pieter R. Roelfsema. The distinct modes of vision offered by feedforward and recurrent processing. Trends in Neurosciences, 23(11):571–579, 2000. doi: 10.1016/S0166-2236(00)01657-X.",
+    "doi": "10.1016/S0166-2236(00)01657-X",
+    "year": 2000,
+    "authors": "Victor A. F. Lamme and Pieter R. Roelfsema",
+    "title": "The distinct modes of vision offered by feedforward and recurrent processing",
+    "venue": "Trends in Neurosciences, 23(11):571–579, 2000"
+  },
+  {
+    "n": 91,
+    "raw": "Hakwan Lau and David Rosenthal. Empirical support for higher-order theories of conscious awareness. Trends in cognitive sciences, 15(8):365–373, 2011.",
+    "year": 2011,
+    "authors": "Hakwan Lau and David Rosenthal",
+    "title": "Empirical support for higher-order theories of conscious awareness",
+    "venue": "Trends in cognitive sciences, 15(8):365–373, 2011."
+  },
+  {
+    "n": 92,
+    "raw": "Patrick Leask, Bart Bussmann, Michael Pearce, Joseph Bloom, Curt Tigges, Noura Al Moubayed, Lee Sharkey, and Neel Nanda. Sparse autoencoders do not find canonical units of analysis. arXiv preprint arXiv:2502.04878, 2025. URL https://arxiv.org/pdf/2502. 04878.",
+    "arxiv": "2502.04878",
+    "url": "https://arxiv.org/pdf/2502",
+    "year": 2025,
+    "authors": "Patrick Leask, Bart Bussmann, Michael Pearce, Joseph Bloom, Curt Tigges, Noura Al Moubayed, Lee Sharkey, and Neel Nanda",
+    "title": "Sparse autoencoders do not find canonical units of analysis",
+    "venue": "arXiv preprint arXiv:2502.04878, 2025."
+  },
+  {
+    "n": 93,
+    "raw": "Chris Letheby and Philip Gerrans. Self unbound: ego dissolution in psychedelic experience. Neuroscience of Consciousness, 2017(1):nix016, 2017. doi: 10.1093/nc/nix016.",
+    "doi": "10.1093/nc/nix016",
+    "year": 2017,
+    "authors": "Chris Letheby and Philip Gerrans",
+    "title": "Self unbound: ego dissolution in psychedelic experience",
+    "venue": "Neuroscience of Consciousness, 2017(1):nix016, 2017"
+  },
+  {
+    "n": 94,
+    "raw": "Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, and Martin Wattenberg. Inference-time intervention: Eliciting truthful answers from a language model, 2023. URL https://arxiv.org/pdf/2306.03341.",
+    "url": "https://arxiv.org/pdf/2306.03341",
+    "year": 2023,
+    "authors": "Kenneth Li, Oam Patel, Fernanda Viégas, Hanspeter Pfister, and Martin Wattenberg",
+    "title": "Inference-time intervention: Eliciting truthful answers from a language model, 2023."
+  },
+  {
+    "n": 95,
+    "raw": "Zhaoyi Li, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian, and Ying Wei. Understanding and patching compositional reasoning in llms. In Findings of the Association for Computational Linguistics: ACL 2024, pages 9668–9688, 2024. URL https://arxiv.org/abs/ 2402.14328.",
+    "url": "https://arxiv.org/abs/",
+    "year": 2024,
+    "authors": "Zhaoyi Li, Gangwei Jiang, Hong Xie, Linqi Song, Defu Lian, and Ying Wei",
+    "title": "Understanding and patching compositional reasoning in llms",
+    "venue": "In Findings of the Association for Computational Linguistics: ACL 2024, pages 9668–9688, 2024."
+  },
+  {
+    "n": 96,
+    "raw": "Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, Zhenting Wang, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, and Dimitris N Metaxas. The hidden life of tokens: Reducing hallucination of large vision-language models via visual information steering. arXiv preprint arXiv:2502.03628, 2025. URL https://arxiv.org/abs/2502.03628.",
+    "arxiv": "2502.03628",
+    "url": "https://arxiv.org/abs/2502.03628",
+    "year": 2025,
+    "authors": "Zhuowei Li, Haizhou Shi, Yunhe Gao, Di Liu, Zhenting Wang, Yuxiao Chen, Ting Liu, Long Zhao, Hao Wang, and Dimitris N Metaxas",
+    "title": "The hidden life of tokens: Reducing hallucination of large vision-language models via visual information steering",
+    "venue": "arXiv preprint arXiv:2502.03628, 2025."
+  },
+  {
+    "n": 97,
+    "raw": "Jack Lindsey. Emergent introspective awareness in large language models. Transformer Circuits Thread, 2025. URL https://transformer-circuits.pub/2025/ introspection/index.html.",
+    "url": "https://transformer-circuits.pub/2025/",
+    "year": 2025,
+    "authors": "Jack Lindsey",
+    "title": "Emergent introspective awareness in large language models",
+    "venue": "Transformer Circuits Thread, 2025."
+  },
+  {
+    "n": 98,
+    "raw": "Jack Lindsey, Wes Gurnee, Emmanuel Ameisen, Brian Chen, Adam Pearce, Nicholas L. Turner, Craig Citro, David Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton, Trenton Bricken, Callum McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson, Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, and Joshua Batson. On the biology of a large language model. Transformer Circuits Thread, 2025. URL https: //transformer-circuits.pub/2025/attribution-graphs/biology.html.",
+    "year": 2025,
+    "authors": "Jack Lindsey, Wes Gurnee, Emmanuel Ameisen, Brian Chen, Adam Pearce, Nicholas L. Turner, Craig Citro, David Abrahams, Shan Carter, Basil Hosmer, Jonathan Marcus, Michael Sklar, Adly Templeton, Trenton Bricken, Callum McDougall, Hoagy Cunningham, Thomas Henighan, Adam Jermyn, Andy Jones, Andrew Persic, Zhenyi Qi, T. Ben Thompson, Sam Zimmerman, Kelley Rivoire, Thomas Conerly, Chris Olah, and Joshua Batson",
+    "title": "On the biology of a large language model",
+    "venue": "Transformer Circuits Thread, 2025."
+  },
+  {
+    "n": 99,
+    "raw": "Nelson F Liu, Matt Gardner, Yonatan Belinkov, Matthew E Peters, and Noah A Smith. Linguistic knowledge and transferability of contextual representations. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 1073– 1094, 2019.",
+    "year": 2019,
+    "authors": "Nelson F Liu, Matt Gardner, Yonatan Belinkov, Matthew E Peters, and Noah A Smith",
+    "title": "Linguistic knowledge and transferability of contextual representations",
+    "venue": "In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 1073– 1094, 2019."
+  },
+  {
+    "n": 100,
+    "raw": "Robert Long. Introspective capabilities in large language models. Journal of Consciousness Studies, 30(9-10):143–153, 2023.",
+    "year": 2023,
+    "authors": "Robert Long",
+    "title": "Introspective capabilities in large language models",
+    "venue": "Journal of Consciousness Studies, 30(9-10):143–153, 2023."
+  },
+  {
+    "n": 101,
+    "raw": "Christina Lu, Jack Gallagher, Jonathan Michala, Kyle Fish, and Jack Lindsey. The assistant axis: Situating and stabilizing the default persona of language models. arXiv preprint arXiv:2601.10387, 2026.",
+    "arxiv": "2601.10387",
+    "year": 2026,
+    "authors": "Christina Lu, Jack Gallagher, Jonathan Michala, Kyle Fish, and Jack Lindsey",
+    "title": "The assistant axis: Situating and stabilizing the default persona of language models",
+    "venue": "arXiv preprint arXiv:2601.10387, 2026."
+  },
+  {
+    "n": 102,
+    "raw": "Meng Lu, Ruochen Zhang, Carsten Eickhoff, and Ellie Pavlick. Paths not taken: Understanding and mending the multilingual factual recall pipeline. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 15066–15096, 2025. URL https://arxiv.org/abs/2505.20546.",
+    "url": "https://arxiv.org/abs/2505.20546",
+    "year": 2025,
+    "authors": "Meng Lu, Ruochen Zhang, Carsten Eickhoff, and Ellie Pavlick",
+    "title": "Paths not taken: Understanding and mending the multilingual factual recall pipeline",
+    "venue": "In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 15066–15096, 2025."
+  },
+  {
+    "n": 103,
+    "raw": "Aengus Lynch, Benjamin Wright, Caleb Larson, Stuart J Ritchie, Soren Mindermann, Evan Hubinger, Ethan Perez, and Kevin Troy. Agentic misalignment: How llms could be insider threats. arXiv preprint arXiv:2510.05179, 2025.",
+    "arxiv": "2510.05179",
+    "year": 2025,
+    "authors": "Aengus Lynch, Benjamin Wright, Caleb Larson, Stuart J Ritchie, Soren Mindermann, Evan Hubinger, Ethan Perez, and Kevin Troy",
+    "title": "Agentic misalignment: How llms could be insider threats",
+    "venue": "arXiv preprint arXiv:2510.05179, 2025."
+  },
+  {
+    "n": 104,
+    "raw": "Monte MacDiarmid, Benjamin Wright, Jonathan Uesato, Joe Benton, Jon Kutasov, Sara Price, Naia Bouscal, Sam Bowman, Trenton Bricken, Alex Cloud, et al. Natural emergent misalignment from reward hacking in production rl. arXiv preprint arXiv:2511.18397, 2025.",
+    "arxiv": "2511.18397",
+    "year": 2025,
+    "authors": "Monte MacDiarmid, Benjamin Wright, Jonathan Uesato, Joe Benton, Jon Kutasov, Sara Price, Naia Bouscal, Sam Bowman, Trenton Bricken, Alex Cloud, et al",
+    "title": "Natural emergent misalignment from reward hacking in production rl",
+    "venue": "arXiv preprint arXiv:2511.18397, 2025."
+  },
+  {
+    "n": 105,
+    "raw": "Samuel Marks, Can Rager, Eric J Michaud, Yonatan Belinkov, David Bau, and Aaron Mueller. Sparse feature circuits: Discovering and editing interpretable causal graphs in language models. arXiv preprint arXiv:2403.19647, 2024. URL https://arxiv.org/pdf/ 2403.19647.",
+    "arxiv": "2403.19647",
+    "url": "https://arxiv.org/pdf/",
+    "year": 2024,
+    "authors": "Samuel Marks, Can Rager, Eric J Michaud, Yonatan Belinkov, David Bau, and Aaron Mueller",
+    "title": "Sparse feature circuits: Discovering and editing interpretable causal graphs in language models",
+    "venue": "arXiv preprint arXiv:2403.19647, 2024."
+  },
+  {
+    "n": 106,
+    "raw": "Samuel Marks, Johannes Treutlein, Trenton Bricken, Jack Lindsey, Jonathan Marcus, Siddharth Mishra-Sharma, Daniel Ziegler, Emmanuel Ameisen, Joshua Batson, Shan Carter, Brian Chen, Hoagy Cunningham, Florien Dietz, Satvik Golechha, Jan Kirchner, Austin Meek, Kei Nishimura-Gasparian, Euan Ong, Christopher Olah, Adam Pearce, Fabien Roger, Jeanne Salle, Meg Tong, Drake Thomas, Kelley Riviore, Adam Jermyn, Monte MacDiarmid, Tom Henighan, and Evan Hubinger. Auditing language models for hidden objectives. 2025. URL https://arxiv.org/pdf/2503.10965.",
+    "url": "https://arxiv.org/pdf/2503.10965",
+    "year": 2025,
+    "authors": "Samuel Marks, Johannes Treutlein, Trenton Bricken, Jack Lindsey, Jonathan Marcus, Siddharth Mishra-Sharma, Daniel Ziegler, Emmanuel Ameisen, Joshua Batson, Shan Carter, Brian Chen, Hoagy Cunningham, Florien Dietz, Satvik Golechha, Jan Kirchner, Austin Meek, Kei Nishimura-Gasparian, Euan Ong, Christopher Olah, Adam Pearce, Fabien Roger, Jeanne Salle, Meg Tong, Drake Thomas, Kelley Riviore, Adam Jermyn, Monte MacDiarmid, Tom Henighan, and Evan Hubinger",
+    "title": "Auditing language models for hidden objectives",
+    "venue": "2025."
+  },
+  {
+    "n": 107,
+    "raw": "René Marois and Jason Ivanoff. Capacity limits of information processing in the brain. Trends in cognitive sciences, 9(6):296–305, 2005.",
+    "year": 2005,
+    "authors": "René Marois and Jason Ivanoff",
+    "title": "Capacity limits of information processing in the brain",
+    "venue": "Trends in cognitive sciences, 9(6):296–305, 2005."
+  },
+  {
+    "n": 108,
+    "raw": "George A Mashour, Pieter Roelfsema, Jean-Pierre Changeux, and Stanislas Dehaene. Conscious processing and the global neuronal workspace hypothesis. Neuron, 105(5):776–798, 2020. doi: 10.1016/j.neuron.2020.01.026.",
+    "doi": "10.1016/j.neuron.2020.01.026",
+    "year": 2020,
+    "authors": "George A Mashour, Pieter Roelfsema, Jean-Pierre Changeux, and Stanislas Dehaene",
+    "title": "Conscious processing and the global neuronal workspace hypothesis",
+    "venue": "Neuron, 105(5):776–798, 2020"
+  },
+  {
+    "n": 109,
+    "raw": "Jack Merullo, Carsten Eickhoff, and Ellie Pavlick. Language models implement simple word2vec-style vector arithmetic. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 5030–5047, 2024. URL https://arxiv.org/abs/2305.16130.",
+    "url": "https://arxiv.org/abs/2305.16130",
+    "year": 2024,
+    "authors": "Jack Merullo, Carsten Eickhoff, and Ellie Pavlick",
+    "title": "Language models implement simple word2vec-style vector arithmetic",
+    "venue": "In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 5030–5047, 2024."
+  },
+  {
+    "n": 110,
+    "raw": "Thomas Metzinger. Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of \"pure\" consciousness. Philosophy and the Mind Sciences, 1(I):1–44, 2020. doi: 10.33735/phimisci.2020.I.46.",
+    "doi": "10.33735/phimisci.2020.I.46",
+    "year": 2020,
+    "authors": "Thomas Metzinger",
+    "title": "Minimal phenomenal experience: Meditation, tonic alertness, and the phenomenology of \"pure\" consciousness",
+    "venue": "Philosophy and the Mind Sciences, 1(I):1–44, 2020"
+  },
+  {
+    "n": 111,
+    "raw": "George A Miller. The magical number seven, plus or minus two: Some limits on our capacity for processing information. Psychological Review, 63(2):81–97, 1956. doi: 10.1037/h0043158.",
+    "doi": "10.1037/h0043158",
+    "year": 1956,
+    "authors": "George A Miller",
+    "title": "The magical number seven, plus or minus two: Some limits on our capacity for processing information",
+    "venue": "Psychological Review, 63(2):81–97, 1956"
+  },
+  {
+    "n": 112,
+    "raw": "Raphaël Millière. The varieties of selflessness. Philosophy and the Mind Sciences, 1(I):1–41, 2020. doi: 10.33735/phimisci.2020.I.48.",
+    "doi": "10.33735/phimisci.2020.I.48",
+    "year": 2020,
+    "authors": "Raphaël Millière",
+    "title": "The varieties of selflessness",
+    "venue": "Philosophy and the Mind Sciences, 1(I):1–41, 2020"
+  },
+  {
+    "n": 113,
+    "raw": "Gianluigi Mongillo, Omri Barak, and Misha Tsodyks. Synaptic theory of working memory. Science, 319(5869):1543–1546, 2008. doi: 10.1126/science.1150769.",
+    "doi": "10.1126/science.1150769",
+    "year": 2008,
+    "authors": "Gianluigi Mongillo, Omri Barak, and Misha Tsodyks",
+    "title": "Synaptic theory of working memory",
+    "venue": "Science, 319(5869):1543–1546, 2008"
+  },
+  {
+    "n": 114,
+    "raw": "Guido Montúfar, Razvan Pascanu, Kyunghyun Cho, and Yoshua Bengio. On the number of linear regions of deep neural networks. In Advances in Neural Information Processing Systems, 2014. URL https://arxiv.org/abs/1402.1869.",
+    "url": "https://arxiv.org/abs/1402.1869",
+    "year": 2014,
+    "authors": "Guido Montúfar, Razvan Pascanu, Kyunghyun Cho, and Yoshua Bengio",
+    "title": "On the number of linear regions of deep neural networks",
+    "venue": "In Advances in Neural Information Processing Systems, 2014."
+  },
+  {
+    "n": 115,
+    "raw": "Liad Mudrik, Nathan Faivre, and Christof Koch. Information integration without awareness. Trends in cognitive sciences, 18(9):488–496, 2014.",
+    "year": 2014,
+    "authors": "Liad Mudrik, Nathan Faivre, and Christof Koch",
+    "title": "Information integration without awareness",
+    "venue": "Trends in cognitive sciences, 18(9):488–496, 2014."
+  },
+  {
+    "n": 116,
+    "raw": "Neel Nanda. Attribution patching: Activation patching at industrial scale, 2023. URL https: //www.neelnanda.io/mechanistic-interpretability/attribution-patching.",
+    "year": 2023,
+    "authors": "Neel Nanda",
+    "title": "Attribution patching: Activation patching at industrial scale, 2023."
+  },
+  {
+    "n": 117,
+    "raw": "Neel Nanda, Arthur Conmy, Lewis Smith, Senthooran Rajamanoharan, Tom Lieberum, János Kramár, and Vikrant Varma. Progress update #1 from the gdm mech interp team, 2024. URL https://www.alignmentforum.org/posts/HpAr8k74mW4ivCvCu/ summary-progress-update-1-from-the-gdm-mech-interp-team.",
+    "url": "https://www.alignmentforum.org/posts/HpAr8k74mW4ivCvCu/",
+    "year": 2024,
+    "authors": "Neel Nanda, Arthur Conmy, Lewis Smith, Senthooran Rajamanoharan, Tom Lieberum, János Kramár, and Vikrant Varma",
+    "title": "Progress update #1 from the gdm mech interp team, 2024."
+  },
+  {
+    "n": 118,
+    "raw": "nostalgebraist. interpreting gpt: the logit lens. LessWrong, 2020. URL https://www. lesswrong.com/posts/AcKRB8wDpdaN6v6ru/interpreting-gpt-the-logit-lens.",
+    "url": "https://www",
+    "year": 2020,
+    "authors": "nostalgebraist",
+    "title": "interpreting gpt: the logit lens",
+    "venue": "LessWrong, 2020."
+  },
+  {
+    "n": 119,
+    "raw": "Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, and Augustus Odena. Show your work: Scratchpads for intermediate computation with language models. arXiv preprint arXiv:2112.00114, 2021. URL https://arxiv.org/abs/ 2112.00114.",
+    "arxiv": "2112.00114",
+    "url": "https://arxiv.org/abs/",
+    "year": 2021,
+    "authors": "Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, and Augustus Odena",
+    "title": "Show your work: Scratchpads for intermediate computation with language models",
+    "venue": "arXiv preprint arXiv:2112.00114, 2021."
+  },
+  {
+    "n": 120,
+    "raw": "Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma, Tom Henighan, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Scott Johnston, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Chris Olah. In-context learning and induction heads. Transformer Circuits Thread, 2022. URL https://transformer-circuits.pub/2022/ in-context-learning-and-induction-heads/index.html.",
+    "url": "https://transformer-circuits.pub/2022/",
+    "year": 2022,
+    "authors": "Catherine Olsson, Nelson Elhage, Neel Nanda, Nicholas Joseph, Nova DasSarma, Tom Henighan, Ben Mann, Amanda Askell, Yuntao Bai, Anna Chen, Tom Conerly, Dawn Drain, Deep Ganguli, Zac Hatfield-Dodds, Danny Hernandez, Scott Johnston, Andy Jones, Jackson Kernion, Liane Lovitt, Kamal Ndousse, Dario Amodei, Tom Brown, Jack Clark, Jared Kaplan, Sam McCandlish, and Chris Olah",
+    "title": "In-context learning and induction heads",
+    "venue": "Transformer Circuits Thread, 2022."
+  },
+  {
+    "n": 121,
+    "raw": "J Kevin O’regan and Alva Noë. A sensorimotor account of vision and visual consciousness. Behavioral and brain sciences, 24(5):939–973, 2001.",
+    "year": 2001,
+    "authors": "J Kevin O’regan and Alva Noë",
+    "title": "A sensorimotor account of vision and visual consciousness",
+    "venue": "Behavioral and brain sciences, 24(5):939–973, 2001."
+  },
+  {
+    "n": 122,
+    "raw": "Koyena Pal, Jiuding Sun, Andrew Yuan, Byron C Wallace, and David Bau. Future lens: Anticipating subsequent tokens from a single hidden state. arXiv preprint arXiv:2311.04897, 2023. URL https://arxiv.org/pdf/2311.04897.",
+    "arxiv": "2311.04897",
+    "url": "https://arxiv.org/pdf/2311.04897",
+    "year": 2023,
+    "authors": "Koyena Pal, Jiuding Sun, Andrew Yuan, Byron C Wallace, and David Bau",
+    "title": "Future lens: Anticipating subsequent tokens from a single hidden state",
+    "venue": "arXiv preprint arXiv:2311.04897, 2023."
+  },
+  {
+    "n": 123,
+    "raw": "Alexander Pan, Lijie Chen, and Jacob Steinhardt. Latentqa: Teaching llms to decode activations into natural language. arXiv preprint arXiv:2412.08686, 2024. URL https: //arxiv.org/abs/2412.08686.",
+    "arxiv": "2412.08686",
+    "year": 2024,
+    "authors": "Alexander Pan, Lijie Chen, and Jacob Steinhardt",
+    "title": "Latentqa: Teaching llms to decode activations into natural language",
+    "venue": "arXiv preprint arXiv:2412.08686, 2024."
+  },
+  {
+    "n": 124,
+    "raw": "Nina Panickssery, Nick Gabrieli, Julian Schulz, Meg Tong, Evan Hubinger, and Alexander Matt Turner. Steering llama 2 via contrastive activation addition, 2024. URL https://arxiv. org/abs/2312.06681, 3.",
+    "url": "https://arxiv",
+    "year": 2024,
+    "authors": "Nina Panickssery, Nick Gabrieli, Julian Schulz, Meg Tong, Evan Hubinger, and Alexander Matt Turner",
+    "title": "Steering llama 2 via contrastive activation addition, 2024."
+  },
+  {
+    "n": 125,
+    "raw": "Kiho Park, Yo Joong Choe, and Victor Veitch. The linear representation hypothesis and the geometry of large language models. arXiv preprint arXiv:2311.03658, 2023.",
+    "arxiv": "2311.03658",
+    "year": 2023,
+    "authors": "Kiho Park, Yo Joong Choe, and Victor Veitch",
+    "title": "The linear representation hypothesis and the geometry of large language models",
+    "venue": "arXiv preprint arXiv:2311.03658, 2023."
+  },
+  {
+    "n": 126,
+    "raw": "Gonçalo Paulo, Alex Mallen, Caden Juang, and Nora Belrose. Automatically interpreting millions of features in large language models. arXiv preprint arXiv:2410.13928, 2024. URL https://arxiv.org/pdf/2410.13928.",
+    "arxiv": "2410.13928",
+    "url": "https://arxiv.org/pdf/2410.13928",
+    "year": 2024,
+    "authors": "Gonçalo Paulo, Alex Mallen, Caden Juang, and Nora Belrose",
+    "title": "Automatically interpreting millions of features in large language models",
+    "venue": "arXiv preprint arXiv:2410.13928, 2024."
+  },
+  {
+    "n": 127,
+    "raw": "Gonçalo Paulo, Stepan Shabalin, and Nora Belrose. Transcoders beat sparse autoencoders for interpretability. arXiv preprint arXiv:2501.18823, 2025. URL https://arxiv.org/pdf/ 2501.18823.",
+    "arxiv": "2501.18823",
+    "url": "https://arxiv.org/pdf/",
+    "year": 2025,
+    "authors": "Gonçalo Paulo, Stepan Shabalin, and Nora Belrose",
+    "title": "Transcoders beat sparse autoencoders for interpretability",
+    "venue": "arXiv preprint arXiv:2501.18823, 2025."
+  },
+  {
+    "n": 128,
+    "raw": "Navindra Persaud and Alan Cowey. Blindsight is unlike normal conscious vision: evidence from an exclusion task. Consciousness and cognition, 17(3):1050–1055, 2008.",
+    "year": 2008,
+    "authors": "Navindra Persaud and Alan Cowey",
+    "title": "Blindsight is unlike normal conscious vision: evidence from an exclusion task",
+    "venue": "Consciousness and cognition, 17(3):1050–1055, 2008."
+  },
+  {
+    "n": 129,
+    "raw": "Dillon Plunkett, Adam Morris, Keerthi Reddy, and Jorge Morales. Self-interpretability: Llms can describe complex internal processes that drive their decisions, and improve with training. arXiv preprint arXiv:2505.17120, 2025.",
+    "arxiv": "2505.17120",
+    "year": 2025,
+    "authors": "Dillon Plunkett, Adam Morris, Keerthi Reddy, and Jorge Morales",
+    "title": "Self-interpretability: Llms can describe complex internal processes that drive their decisions, and improve with training",
+    "venue": "arXiv preprint arXiv:2505.17120, 2025."
+  },
+  {
+    "n": 130,
+    "raw": "Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. Squad: 100,000+ questions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 2383–2392, 2016. URL https://arxiv.org/abs/1606.05250.",
+    "url": "https://arxiv.org/abs/1606.05250",
+    "year": 2016,
+    "authors": "Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang",
+    "title": "Squad: 100,000+ questions for machine comprehension of text",
+    "venue": "In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 2383–2392, 2016."
+  },
+  {
+    "n": 131,
+    "raw": "David Rosenthal. Consciousness and mind. Clarendon Press, 2005.",
+    "year": 2005,
+    "authors": "David Rosenthal",
+    "title": "Consciousness and mind",
+    "venue": "Clarendon Press, 2005."
+  },
+  {
+    "n": 132,
+    "raw": "Jérôme Sackur and Stanislas Dehaene. The cognitive architecture for chaining of two mental operations. Cognition, 111(2):187–211, 2009.",
+    "year": 2009,
+    "authors": "Jérôme Sackur and Stanislas Dehaene",
+    "title": "The cognitive architecture for chaining of two mental operations",
+    "venue": "Cognition, 111(2):187–211, 2009."
+  },
+  {
+    "n": 133,
+    "raw": "Alan Saji, Jaavid Aktar Husain, Thanmay Jayakumar, Raj Dabre, Anoop Kunchukuttan, and Ratish Puduppully. Romanlens: The role of latent romanization in multilinguality in llms. In Findings of the Association for Computational Linguistics: ACL 2025, 2025. URL https: //arxiv.org/abs/2502.07424.",
+    "year": 2025,
+    "authors": "Alan Saji, Jaavid Aktar Husain, Thanmay Jayakumar, Raj Dabre, Anoop Kunchukuttan, and Ratish Puduppully",
+    "title": "Romanlens: The role of latent romanization in multilinguality in llms",
+    "venue": "In Findings of the Association for Computational Linguistics: ACL 2025, 2025."
+  },
+  {
+    "n": 134,
+    "raw": "Imanol Schlag, Kazuki Irie, and Jürgen Schmidhuber. Linear transformers are secretly fast weight programmers. In Proceedings of the 38th International Conference on Machine Learning. PMLR, 2021. URL https://arxiv.org/abs/2102.11174.",
+    "url": "https://arxiv.org/abs/2102.11174",
+    "year": 2021,
+    "authors": "Imanol Schlag, Kazuki Irie, and Jürgen Schmidhuber",
+    "title": "Linear transformers are secretly fast weight programmers",
+    "venue": "In Proceedings of the 38th International Conference on Machine Learning"
+  },
+  {
+    "n": 135,
+    "raw": "Lisa Schut, Yarin Gal, and Sebastian Farquhar. Do multilingual llms think in english?, 2025. URL https://arxiv.org/pdf/2502.15603.",
+    "url": "https://arxiv.org/pdf/2502.15603",
+    "year": 2025,
+    "authors": "Lisa Schut, Yarin Gal, and Sebastian Farquhar",
+    "title": "Do multilingual llms think in english?, 2025."
+  },
+  {
+    "n": 136,
+    "raw": "John R Searle. The rediscovery of the mind. MIT press, 1992.",
+    "year": 1992,
+    "authors": "John R Searle",
+    "title": "The rediscovery of the mind",
+    "venue": "MIT press, 1992."
+  },
+  {
+    "n": 137,
+    "raw": "Anil K Seth. Conscious artificial intelligence and biological naturalism. Behavioral and Brain Sciences, pages 1–42, 2024.",
+    "year": 2024,
+    "authors": "Anil K Seth",
+    "title": "Conscious artificial intelligence and biological naturalism",
+    "venue": "Behavioral and Brain Sciences, pages 1–42, 2024."
+  },
+  {
+    "n": 138,
+    "raw": "Karen Simonyan, Andrea Vedaldi, and Andrew Zisserman. Deep inside convolutional networks: Visualising image classification models and saliency maps. arXiv preprint arXiv:1312.6034, 2013. URL https://arxiv.org/pdf/1312.6034.",
+    "arxiv": "1312.6034",
+    "url": "https://arxiv.org/pdf/1312.6034",
+    "year": 2013,
+    "authors": "Karen Simonyan, Andrea Vedaldi, and Andrew Zisserman",
+    "title": "Deep inside convolutional networks: Visualising image classification models and saliency maps",
+    "venue": "arXiv preprint arXiv:1312.6034, 2013."
+  },
+  {
+    "n": 139,
+    "raw": "Oscar Skean, Md Rifat Arefin, Dan Zhao, Niket Patel, Jalal Naghiyev, Yann LeCun, and Ravid Shwartz-Ziv. Layer by layer: Uncovering hidden representations in language models. In Proceedings of the 42nd International Conference on Machine Learning, 2025. URL https://arxiv.org/abs/2502.02013.",
+    "url": "https://arxiv.org/abs/2502.02013",
+    "year": 2025,
+    "authors": "Oscar Skean, Md Rifat Arefin, Dan Zhao, Niket Patel, Jalal Naghiyev, Yann LeCun, and Ravid Shwartz-Ziv",
+    "title": "Layer by layer: Uncovering hidden representations in language models",
+    "venue": "In Proceedings of the 42nd International Conference on Machine Learning, 2025."
+  },
+  {
+    "n": 140,
+    "raw": "Nicholas Sofroniew, Isaac Kauvar, William Saunders, Runjin Chen, Tom Henighan, Sasha Hydrie, Craig Citro, Adam Pearce, Julius Tarng, Wes Gurnee, Joshua Batson, Sam Zimmerman, Kelley Rivoire, Kyle Fish, Chris Olah, and Jack Lindsey. Emotion concepts and their function in a large language model. Transformer Circuits Thread, 2026. URL https://transformer-circuits.pub/2026/emotions/index.html.",
+    "url": "https://transformer-circuits.pub/2026/emotions/index.html",
+    "year": 2026,
+    "authors": "Nicholas Sofroniew, Isaac Kauvar, William Saunders, Runjin Chen, Tom Henighan, Sasha Hydrie, Craig Citro, Adam Pearce, Julius Tarng, Wes Gurnee, Joshua Batson, Sam Zimmerman, Kelley Rivoire, Kyle Fish, Chris Olah, and Jack Lindsey",
+    "title": "Emotion concepts and their function in a large language model",
+    "venue": "Transformer Circuits Thread, 2026."
+  },
+  {
+    "n": 141,
+    "raw": "Siyuan Song, Harvey Lederman, Jennifer Hu, and Kyle Mahowald. Privileged self-access matters for introspection in ai. arXiv preprint arXiv:2508.14802, 2025.",
+    "arxiv": "2508.14802",
+    "year": 2025,
+    "authors": "Siyuan Song, Harvey Lederman, Jennifer Hu, and Kyle Mahowald",
+    "title": "Privileged self-access matters for introspection in ai",
+    "venue": "arXiv preprint arXiv:2508.14802, 2025."
+  },
+  {
+    "n": 142,
+    "raw": "Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, and Paul Christiano. Learning to summarize from human feedback. In Advances in Neural Information Processing Systems (NeurIPS), 2020. URL https:// arxiv.org/abs/2009.01325.",
+    "year": 2009,
+    "authors": "Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, and Paul Christiano",
+    "title": "Learning to summarize from human feedback",
+    "venue": "In Advances in Neural Information Processing Systems (NeurIPS), 2020."
+  },
+  {
+    "n": 143,
+    "raw": "Mark G Stokes. ‘activity-silent’ working memory in prefrontal cortex: a dynamic coding framework. Trends in Cognitive Sciences, 19(7):394–405, 2015. doi: 10.1016/j.tics.2015.05. 004.",
+    "doi": "10.1016/j.tics.2015.05",
+    "year": 2015,
+    "authors": "Mark G Stokes",
+    "title": "‘activity-silent’ working memory in prefrontal cortex: a dynamic coding framework",
+    "venue": "Trends in Cognitive Sciences, 19(7):394–405, 2015"
+  },
+  {
+    "n": 144,
+    "raw": "Alessandro Stolfo et al. Improving instruction-following in language models through activation steering. In arXiv preprint arXiv:2410.12877, 2024. URL https://arxiv.org/abs/ 2410.12877.",
+    "arxiv": "2410.12877",
+    "url": "https://arxiv.org/abs/",
+    "year": 2024,
+    "authors": "Alessandro Stolfo et al",
+    "title": "Improving instruction-following in language models through activation steering",
+    "venue": "In arXiv preprint arXiv:2410.12877, 2024."
+  },
+  {
+    "n": 145,
+    "raw": "Aaquib Syed, Can Rager, and Arthur Conmy. Attribution patching outperforms automated circuit discovery. arXiv preprint arXiv:2310.10348, 2023. URL https://arxiv.org/pdf/ 2310.10348.",
+    "arxiv": "2310.10348",
+    "url": "https://arxiv.org/pdf/",
+    "year": 2023,
+    "authors": "Aaquib Syed, Can Rager, and Arthur Conmy",
+    "title": "Attribution patching outperforms automated circuit discovery",
+    "venue": "arXiv preprint arXiv:2310.10348, 2023."
+  },
+  {
+    "n": 146,
+    "raw": "Ryota Takatsuki, Sonia Joseph, Ippei Fujisawa, and Ryota Kanai. Decoding vision transformers: the diffusion steering lens. In CVPR Workshop on Mechanistic Interpretability for Vision, 2025. URL https://arxiv.org/abs/2504.13763.",
+    "url": "https://arxiv.org/abs/2504.13763",
+    "year": 2025,
+    "authors": "Ryota Takatsuki, Sonia Joseph, Ippei Fujisawa, and Ryota Kanai",
+    "title": "Decoding vision transformers: the diffusion steering lens",
+    "venue": "In CVPR Workshop on Mechanistic Interpretability for Vision, 2025."
+  },
+  {
+    "n": 147,
+    "raw": "Adly Templeton, Tom Conerly, Jonathan Marcus, Jack Lindsey, Trenton Bricken, Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy Cunningham, Nicholas L Turner, Callum McDougall, Monte MacDiarmid, C. Daniel Freeman, Theodore R. Sumers, Edward Rees, Joshua Batson, Adam Jermyn, Shan Carter, Chris Olah, and Tom Henighan. Scaling monosemanticity: Extracting interpretable features from claude 3 sonnet. Transformer Circuits Thread, 2024. URL https://transformer-circuits.pub/2024/ scaling-monosemanticity/index.html.",
+    "url": "https://transformer-circuits.pub/2024/",
+    "year": 2024,
+    "authors": "Adly Templeton, Tom Conerly, Jonathan Marcus, Jack Lindsey, Trenton Bricken, Brian Chen, Adam Pearce, Craig Citro, Emmanuel Ameisen, Andy Jones, Hoagy Cunningham, Nicholas L Turner, Callum McDougall, Monte MacDiarmid, C. Daniel Freeman, Theodore R. Sumers, Edward Rees, Joshua Batson, Adam Jermyn, Shan Carter, Chris Olah, and Tom Henighan",
+    "title": "Scaling monosemanticity: Extracting interpretable features from claude 3 sonnet",
+    "venue": "Transformer Circuits Thread, 2024."
+  },
+  {
+    "n": 148,
+    "raw": "Ian Tenney, Dipanjan Das, and Ellie Pavlick. Bert rediscovers the classical nlp pipeline. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 4593–4601, Florence, Italy, 2019. Association for Computational Linguistics. doi: 10.18653/v1/P19-1452. URL https://aclanthology.org/P19-1452.",
+    "doi": "10.18653/v1/P19-1452",
+    "url": "https://aclanthology.org/P19-1452",
+    "year": 2019,
+    "authors": "Ian Tenney, Dipanjan Das, and Ellie Pavlick",
+    "title": "Bert rediscovers the classical nlp pipeline",
+    "venue": "In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pages 4593–4601, Florence, Italy, 2019"
+  },
+  {
+    "n": 149,
+    "raw": "Curt Tigges, Oskar John Hollinsworth, Atticus Geiger, and Neel Nanda. Linear representations of sentiment in large language models, 2023. URL https://arxiv.org/pdf/2310. 15154.",
+    "url": "https://arxiv.org/pdf/2310",
+    "year": 2023,
+    "authors": "Curt Tigges, Oskar John Hollinsworth, Atticus Geiger, and Neel Nanda",
+    "title": "Linear representations of sentiment in large language models, 2023."
+  },
+  {
+    "n": 150,
+    "raw": "Eric Todd, Millicent L Li, Arnab Sen Sharma, Aaron Mueller, Byron C Wallace, and David Bau. Function vectors in large language models. arXiv preprint arXiv:2310.15213, 2023. URL https://arxiv.org/pdf/2310.15213.",
+    "arxiv": "2310.15213",
+    "url": "https://arxiv.org/pdf/2310.15213",
+    "year": 2023,
+    "authors": "Eric Todd, Millicent L Li, Arnab Sen Sharma, Aaron Mueller, Byron C Wallace, and David Bau",
+    "title": "Function vectors in large language models",
+    "venue": "arXiv preprint arXiv:2310.15213, 2023."
+  },
+  {
+    "n": 151,
+    "raw": "Michael Toker, Hadas Orgad, Mor Ventura, Dana Arad, and Yonatan Belinkov. Diffusion lens: Interpreting text encoders in text-to-image pipelines. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 9713–9728, 2024. URL https://arxiv.org/abs/2403.05846.",
+    "url": "https://arxiv.org/abs/2403.05846",
+    "year": 2024,
+    "authors": "Michael Toker, Hadas Orgad, Mor Ventura, Dana Arad, and Yonatan Belinkov",
+    "title": "Diffusion lens: Interpreting text encoders in text-to-image pipelines",
+    "venue": "In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 9713–9728, 2024."
+  },
+  {
+    "n": 152,
+    "raw": "Katharina Trinley, Toshiki Nakai, Tatiana Anikina, and Tanja Baeumel. What language(s) does aya-23 think in? how multilinguality affects internal language representations. arXiv preprint arXiv:2507.20279, 2025. URL https://arxiv.org/abs/2507.20279.",
+    "arxiv": "2507.20279",
+    "url": "https://arxiv.org/abs/2507.20279",
+    "year": 2025,
+    "authors": "Katharina Trinley, Toshiki Nakai, Tatiana Anikina, and Tanja Baeumel",
+    "title": "What language(s) does aya-23 think in? how multilinguality affects internal language representations",
+    "venue": "arXiv preprint arXiv:2507.20279, 2025."
+  },
+  {
+    "n": 153,
+    "raw": "Alexander Matt Turner, Lisa Thiergart, David Udell, Gavin Leech, Ulisse Mini, and Monte MacDiarmid. Activation addition: Steering language models without optimization, 2023. URL https://arxiv.org/pdf/2308.10248.",
+    "url": "https://arxiv.org/pdf/2308.10248",
+    "year": 2023,
+    "authors": "Alexander Matt Turner, Lisa Thiergart, David Udell, Gavin Leech, Ulisse Mini, and Monte MacDiarmid",
+    "title": "Activation addition: Steering language models without optimization, 2023."
+  },
+  {
+    "n": 154,
+    "raw": "Pedro Urbina-Rodriguez, Zafeirios Fountas, Fernando E. Rosas, Jun Wang, Andrea I. Luppi, Haitham Bou-Ammar, Murray Shanahan, and Pedro A. M. Mediano. A brain-like synergistic core in LLMs drives behaviour and learning. 2026. URL https://arxiv.org/abs/2601. 06851.",
+    "url": "https://arxiv.org/abs/2601",
+    "year": 2026,
+    "authors": "Pedro Urbina-Rodriguez, Zafeirios Fountas, Fernando E. Rosas, Jun Wang, Andrea I. Luppi, Haitham Bou-Ammar, Murray Shanahan, and Pedro A. M. Mediano",
+    "title": "A brain-like synergistic core in LLMs drives behaviour and learning",
+    "venue": "2026."
+  },
+  {
+    "n": 155,
+    "raw": "Lucrezia Valeriani, Diego Doimo, Francesca Cuturello, Alessandro Laio, Alessio Ansuini, and Alberto Cazzaniga. The geometry of hidden representations of large transformer models. In Advances in Neural Information Processing Systems, 2023. URL https://arxiv.org/ abs/2302.00294.",
+    "url": "https://arxiv.org/",
+    "year": 2023,
+    "authors": "Lucrezia Valeriani, Diego Doimo, Francesca Cuturello, Alessandro Laio, Alessio Ansuini, and Alberto Cazzaniga",
+    "title": "The geometry of hidden representations of large transformer models",
+    "venue": "In Advances in Neural Information Processing Systems, 2023."
+  },
+  {
+    "n": 156,
+    "raw": "Rufin VanRullen and Ryota Kanai. Deep learning and the global workspace theory. Trends in Neurosciences, 44(9):692–704, 2021. doi: 10.1016/j.tins.2021.04.005. URL https:// arxiv.org/abs/2012.10390.",
+    "doi": "10.1016/j.tins.2021.04.005",
+    "year": 2012,
+    "authors": "Rufin VanRullen and Ryota Kanai",
+    "title": "Deep learning and the global workspace theory",
+    "venue": "Trends in Neurosciences, 44(9):692–704, 2021"
+  },
+  {
+    "n": 157,
+    "raw": "Michael Völske, Martin Potthast, Shahbaz Syed, and Benno Stein. Tl;dr: Mining Reddit to learn automatic summarization. In Proceedings of the Workshop on New Frontiers in Summarization, pages 59–63. Association for Computational Linguistics, 2017. doi: 10. 18653/v1/W17-4508. URL https://aclanthology.org/W17-4508/.",
+    "url": "https://aclanthology.org/W17-4508/",
+    "year": 2017,
+    "authors": "Michael Völske, Martin Potthast, Shahbaz Syed, and Benno Stein",
+    "title": "Tl;dr: Mining Reddit to learn automatic summarization",
+    "venue": "In Proceedings of the Workshop on New Frontiers in Summarization, pages 59–63"
+  },
+  {
+    "n": 158,
+    "raw": "Kevin Wang, Alexandre Variengien, Arthur Conmy, Buck Shlegeris, and Jacob Steinhardt. Interpretability in the wild: a circuit for indirect object identification in gpt-2 small. arXiv preprint arXiv:2211.00593, 2022. URL https://arxiv.org/pdf/2211.00593.",
+    "arxiv": "2211.00593",
+    "url": "https://arxiv.org/pdf/2211.00593",
+    "year": 2022,
+    "authors": "Kevin Wang, Alexandre Variengien, Arthur Conmy, Buck Shlegeris, and Jacob Steinhardt",
+    "title": "Interpretability in the wild: a circuit for indirect object identification in gpt-2 small",
+    "venue": "arXiv preprint arXiv:2211.00593, 2022."
+  },
+  {
+    "n": 159,
+    "raw": "Alex Warstadt, Amanpreet Singh, and Samuel R. Bowman. Neural network acceptability judgments. Transactions of the Association for Computational Linguistics, 7:625–641, 2019. URL https://arxiv.org/abs/1805.12471.",
+    "url": "https://arxiv.org/abs/1805.12471",
+    "year": 2019,
+    "authors": "Alex Warstadt, Amanpreet Singh, and Samuel R. Bowman",
+    "title": "Neural network acceptability judgments",
+    "venue": "Transactions of the Association for Computational Linguistics, 7:625–641, 2019."
+  },
+  {
+    "n": 160,
+    "raw": "Daniel M Wegner. Ironic processes of mental control. Psychological Review, 101(1):34–52, 1994. doi: 10.1037/0033-295X.101.1.34.",
+    "doi": "10.1037/0033-295X.101.1.34",
+    "year": 1994,
+    "authors": "Daniel M Wegner",
+    "title": "Ironic processes of mental control",
+    "venue": "Psychological Review, 101(1):34–52, 1994"
+  },
+  {
+    "n": 161,
+    "raw": "Daniel M Wegner, David J Schneider, Samuel R Carter, and Teri L White. Paradoxical effects of thought suppression. Journal of Personality and Social Psychology, 53(1):5–13, 1987. doi: 10.1037/0022-3514.53.1.5.",
+    "doi": "10.1037/0022-3514.53.1.5",
+    "year": 1987,
+    "authors": "Daniel M Wegner, David J Schneider, Samuel R Carter, and Teri L White",
+    "title": "Paradoxical effects of thought suppression",
+    "venue": "Journal of Personality and Social Psychology, 53(1):5–13, 1987"
+  },
+  {
+    "n": 162,
+    "raw": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed H. Chi, Quoc V. Le, and Denny Zhou. Chain-of-thought prompting elicits reasoning in large language models. In Advances in Neural Information Processing Systems (NeurIPS), 2022. URL https://arxiv.org/abs/2201.11903.",
+    "url": "https://arxiv.org/abs/2201.11903",
+    "year": 2022,
+    "authors": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed H. Chi, Quoc V. Le, and Denny Zhou",
+    "title": "Chain-of-thought prompting elicits reasoning in large language models",
+    "venue": "In Advances in Neural Information Processing Systems (NeurIPS), 2022."
+  },
+  {
+    "n": 163,
+    "raw": "Lawrence Weiskrantz. Blindsight: A Case Study and Implications. Oxford University Press, 1986.",
+    "year": 1986,
+    "authors": "Lawrence Weiskrantz",
+    "title": "Blindsight: A Case Study and Implications",
+    "venue": "Oxford University Press, 1986."
+  },
+  {
+    "n": 164,
+    "raw": "Chris Wendler, Veniamin Veselovsky, Giovanni Monea, and Robert West. Do llamas work in english? on the latent language of multilingual transformers. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 15366–15394, 2024. URL https://aclanthology.org/2024.acl-long.820. pdf.",
+    "url": "https://aclanthology.org/2024.acl-long.820",
+    "year": 2024,
+    "authors": "Chris Wendler, Veniamin Veselovsky, Giovanni Monea, and Robert West",
+    "title": "Do llamas work in english? on the latent language of multilingual transformers",
+    "venue": "In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 15366–15394, 2024."
+  },
+  {
+    "n": 165,
+    "raw": "Yao Yan. Addition in four movements: Mapping layer-wise information trajectories in llms. In Findings of the Association for Computational Linguistics: EMNLP 2025, 2025. URL https://arxiv.org/abs/2506.07824.",
+    "url": "https://arxiv.org/abs/2506.07824",
+    "year": 2025,
+    "authors": "Yao Yan",
+    "title": "Addition in four movements: Mapping layer-wise information trajectories in llms",
+    "venue": "In Findings of the Association for Computational Linguistics: EMNLP 2025, 2025."
+  },
+  {
+    "n": 166,
+    "raw": "Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, and Sebastian Riedel. Do large language models latently perform multi-hop reasoning? arXiv preprint arXiv:2402.16837, 2024. URL https://arxiv.org/pdf/2402.16837.",
+    "arxiv": "2402.16837",
+    "url": "https://arxiv.org/pdf/2402.16837",
+    "year": 2024,
+    "authors": "Sohee Yang, Elena Gribovskaya, Nora Kassner, Mor Geva, and Sebastian Riedel",
+    "title": "Do large language models latently perform multi-hop reasoning? arXiv preprint arXiv:2402.16837, 2024."
+  },
+  {
+    "n": 167,
+    "raw": "Alexander Yom Din, Taelin Karidi, Leshem Choshen, and Mor Geva. Jump to conclusions: Short-cutting transformers with linear transformations. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 9615–9625, 2024. URL https://arxiv.org/abs/2303. 09435.",
+    "url": "https://arxiv.org/abs/2303",
+    "year": 2024,
+    "authors": "Alexander Yom Din, Taelin Karidi, Leshem Choshen, and Mor Geva",
+    "title": "Jump to conclusions: Short-cutting transformers with linear transformations",
+    "venue": "In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 9615–9625, 2024."
+  },
+  {
+    "n": 168,
+    "raw": "Yuji Zhang, Sha Li, Jiateng Liu, Pengfei Yu, Yi R Fung, Jing Li, Manling Li, and Heng Ji. Knowledge overshadowing causes amalgamated hallucination in large language models. arXiv preprint arXiv:2407.08039, 2024. URL https://arxiv.org/abs/2407.08039.",
+    "arxiv": "2407.08039",
+    "url": "https://arxiv.org/abs/2407.08039",
+    "year": 2024,
+    "authors": "Yuji Zhang, Sha Li, Jiateng Liu, Pengfei Yu, Yi R Fung, Jing Li, Manling Li, and Heng Ji",
+    "title": "Knowledge overshadowing causes amalgamated hallucination in large language models",
+    "venue": "arXiv preprint arXiv:2407.08039, 2024."
+  },
+  {
+    "n": 169,
+    "raw": "Chengzhi Zhong, Fei Cheng, Qianying Liu, Junfeng Jiang, Zhen Wan, Chenhui Chu, Yugo Murawaki, and Sadao Kurohashi. Beyond english-centric llms: What language do multilingual language models think in? arXiv preprint arXiv:2408.10811, 2024. URL https: //arxiv.org/abs/2408.10811.",
+    "arxiv": "2408.10811",
+    "year": 2024,
+    "authors": "Chengzhi Zhong, Fei Cheng, Qianying Liu, Junfeng Jiang, Zhen Wan, Chenhui Chu, Yugo Murawaki, and Sadao Kurohashi",
+    "title": "Beyond english-centric llms: What language do multilingual language models think in? arXiv preprint arXiv:2408.10811, 2024."
+  },
+  {
+    "n": 170,
+    "raw": "Zhenhong Zhou, Haiyang Yu, Xinghua Zhang, Rongwu Xu, Fei Huang, and Yongbin Li. How alignment and jailbreak work: Explain llm safety through intermediate hidden states. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 2461–2488, 2024. URL https://arxiv.org/abs/2406.05644.",
+    "url": "https://arxiv.org/abs/2406.05644",
+    "year": 2024,
+    "authors": "Zhenhong Zhou, Haiyang Yu, Xinghua Zhang, Rongwu Xu, Fei Huang, and Yongbin Li",
+    "title": "How alignment and jailbreak work: Explain llm safety through intermediate hidden states",
+    "venue": "In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 2461–2488, 2024."
+  },
+  {
+    "n": 171,
+    "raw": "Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski, et al. Representation engineering: A top-down approach to ai transparency. arXiv preprint arXiv:2310.01405, 2023. URL https://arxiv.org/pdf/2310.01405.",
+    "arxiv": "2310.01405",
+    "url": "https://arxiv.org/pdf/2310.01405",
+    "year": 2023,
+    "authors": "Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski, et al",
+    "title": "Representation engineering: A top-down approach to ai transparency",
+    "venue": "arXiv preprint arXiv:2310.01405, 2023."
+  }
+]
