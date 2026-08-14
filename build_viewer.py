@@ -381,7 +381,7 @@ function layoutProv(){
   provLeft = UNDATED*COLW - w/2;
 }
 const cv = document.getElementById('cv'), ctx = cv.getContext('2d');
-let W=0,H=0, cam={x:0,y:0,k:1};
+let W=0, H=0, DPR=1, cam={x:0,y:0,k:1};
 
 // ---- which nodes are in play
 function visibleSet(){
@@ -505,8 +505,14 @@ function drawProvChrome(){
 
 // ---- render
 function draw(){
+  // The backing store is W*DPR x H*DPR. Clearing only W x H leaves everything
+  // outside that box uncleared, so on any HiDPI or OS-scaled display the frames
+  // pile up instead of animating. Clear the whole buffer in device pixels, then
+  // return to CSS-pixel space for the actual drawing.
+  if ((devicePixelRatio || 1) !== DPR) resize();     // window moved to another monitor
   ctx.setTransform(1,0,0,1,0,0);
-  ctx.clearRect(0,0,W,H);
+  ctx.clearRect(0,0,cv.width,cv.height);
+  ctx.setTransform(DPR,0,0,DPR,0,0);
   ctx.translate(W/2+cam.x, H/2+cam.y); ctx.scale(cam.k,cam.k);
 
   // In provenance mode a selection lights its whole transitive ancestry and
@@ -702,11 +708,12 @@ for (const s of D.sections){
 sec.onchange = e => { section=e.target.value; sel=null; show(null); rebuild(); };
 
 function resize(){
-  const dpr = devicePixelRatio||1, r = cv.getBoundingClientRect();
+  const r = cv.getBoundingClientRect();
   if (!r.width || !r.height) return;          // pane hidden; retry when shown
-  W=r.width; H=r.height;
-  cv.width=W*dpr; cv.height=H*dpr;
-  ctx.setTransform(dpr,0,0,dpr,0,0);
+  DPR = devicePixelRatio || 1;
+  W = r.width; H = r.height;
+  cv.width = Math.round(W*DPR); cv.height = Math.round(H*DPR);
+  ctx.setTransform(DPR,0,0,DPR,0,0);
 }
 addEventListener('resize', resize);
 // The window 'resize' event does not fire when a hidden pane is revealed, which
